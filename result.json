@@ -1,0 +1,2914 @@
+[
+  {
+    "id": "237820",
+    "name": "Чай черный Yantra Classic Деликатный бергамот, 100г",
+    "link": "https://online.metro-cc.ru/products/chay-chernyy-yantra-classic-delikatnyy-bergamot-100g",
+    "brand": "YANTRA",
+    "regular_price": "319",
+    "promo_price": "249"
+  },
+  {
+    "id": "237821",
+    "name": "Чай черный Yantra Orange Pekoe A крупнолистовой, 100г",
+    "link": "https://online.metro-cc.ru/products/chay-chernyy-yantra-orange-pekoe-a-krupnolistovoy-100g",
+    "brand": "YANTRA",
+    "regular_price": "265",
+    "promo_price": "209"
+  },
+  {
+    "id": "393832",
+    "name": "Чай Greenfield Golden Ceylon черный (2г х 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/greenfield-chernyj-golden-ceylon-100x2g",
+    "brand": "GREENFIELD",
+    "regular_price": "359",
+    "promo_price": null
+  },
+  {
+    "id": "457730",
+    "name": "Чай Greenfield Green Melissa зеленый (1.5г х 100шт), 150г",
+    "link": "https://online.metro-cc.ru/products/art_457730",
+    "brand": "GREENFIELD",
+    "regular_price": "359",
+    "promo_price": null
+  },
+  {
+    "id": "426130",
+    "name": "Чай Greenfield Earl Grey Fantasy черный (2г x 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/greenfield-chernyj-earl-grey-fantasy-100x2g",
+    "brand": "GREENFIELD",
+    "regular_price": "359",
+    "promo_price": null
+  },
+  {
+    "id": "457305",
+    "name": "Чай Greenfield Kenyan Sunrise черный (2г х 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/greenfield-chernyj-kenyan-sunrise-100x2g",
+    "brand": "GREENFIELD",
+    "regular_price": "359",
+    "promo_price": null
+  },
+  {
+    "id": "578790",
+    "name": "Чай Азерчай Букет черный байховый, 400г",
+    "link": "https://online.metro-cc.ru/products/art_578790",
+    "brand": "АЗЕРЧАЙ",
+    "regular_price": "529",
+    "promo_price": "449"
+  },
+  {
+    "id": "75131",
+    "name": "Чай Ahmad Tea Earl Grey черный с бергамотом (2г x 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/ahmad-tea-chernyj-s-bergamotom-earl-grey-100-pak",
+    "brand": "AHMAD TEA",
+    "regular_price": "519",
+    "promo_price": null
+  },
+  {
+    "id": "457345",
+    "name": "Чай Tess Sunrise цейлонский черный (1.8г х 100шт), 180г",
+    "link": "https://online.metro-cc.ru/products/tess-chernyj-cejlonskij-sunrise-100x18g",
+    "brand": "TESS",
+    "regular_price": "349",
+    "promo_price": "249"
+  },
+  {
+    "id": "539331",
+    "name": "Чай Richard Royal Ceylon черный байховый (2г х 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/richard-chernyj-bajhovyj-royl-ceylon-v-sashe-100-2g",
+    "brand": "RICHARD",
+    "regular_price": "319",
+    "promo_price": "229"
+  },
+  {
+    "id": "393865",
+    "name": "Чай Greenfield Flying Dragon зеленый (2г х 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/greenfield-zelenyj-flying-dragon-100x2g",
+    "brand": "GREENFIELD",
+    "regular_price": "359",
+    "promo_price": null
+  },
+  {
+    "id": "113205",
+    "name": "Чай Basilur Китайский чай Молочный улун зеленый, 100г",
+    "link": "https://online.metro-cc.ru/products/100g-chaj-basilur-kitajskij-chaj-molochn-ulun",
+    "brand": "BASILUR",
+    "regular_price": "339",
+    "promo_price": null
+  },
+  {
+    "id": "393864",
+    "name": "Чай Greenfield Golden Ceylon черный, 200г",
+    "link": "https://online.metro-cc.ru/products/greenfield-golden-ceylon-200g",
+    "brand": "GREENFIELD",
+    "regular_price": "289",
+    "promo_price": null
+  },
+  {
+    "id": "207721",
+    "name": "Чай Newby English Breakfast черный листовой, 100г",
+    "link": "https://online.metro-cc.ru/products/newby-chernyj-english-breakfast-100g",
+    "brand": "NEWBY",
+    "regular_price": "799",
+    "promo_price": null
+  },
+  {
+    "id": "113250",
+    "name": "Чай Basilur Китайский чай Молочный улун (1.5г х 100шт), 150г",
+    "link": "https://online.metro-cc.ru/products/100x15g-chaj-basilur-kitajskij-molochnyj-ulun",
+    "brand": "BASILUR",
+    "regular_price": "579",
+    "promo_price": null
+  },
+  {
+    "id": "97770",
+    "name": "RIOBA Чай Матча зеленый Премиум, 100г",
+    "link": "https://online.metro-cc.ru/products/rioba-matcha-zelenyj-100g",
+    "brand": "RIOBA",
+    "regular_price": "669",
+    "promo_price": "629"
+  },
+  {
+    "id": "634080",
+    "name": "Чай Akbar Золотой крупно-листовой, 250г",
+    "link": "https://online.metro-cc.ru/products/art_634080",
+    "brand": "AKBAR",
+    "regular_price": "369",
+    "promo_price": "309"
+  },
+  {
+    "id": "599475",
+    "name": "Чай Richard Royal Ceylon черный крупнолистовой, 180г",
+    "link": "https://online.metro-cc.ru/products/richard-royal-ceylon-chernyj-180g",
+    "brand": "RICHARD",
+    "regular_price": "319",
+    "promo_price": "199"
+  },
+  {
+    "id": "641402",
+    "name": "RIOBA Чай черный листовой с Чабрецом, 400г",
+    "link": "https://online.metro-cc.ru/products/rioba-chernyj-listovoj-s-chabrecom-400g",
+    "brand": "RIOBA",
+    "regular_price": "429",
+    "promo_price": "379"
+  },
+  {
+    "id": "225339",
+    "name": "Чай черный Richman бергамот, 40г",
+    "link": "https://online.metro-cc.ru/products/40g-chay-chernyy-richman-bergamot",
+    "brand": "RICHMAN",
+    "regular_price": "159",
+    "promo_price": "129"
+  },
+  {
+    "id": "544482",
+    "name": "RIOBA Чай черный листовой Английский Завтрак, 400г",
+    "link": "https://online.metro-cc.ru/products/rioba-chernyj-anglijskij-zavtrak-400g",
+    "brand": "RIOBA",
+    "regular_price": "529",
+    "promo_price": "489"
+  },
+  {
+    "id": "544484",
+    "name": "RIOBA Чай зеленый листовой Молочный Улун, 400г",
+    "link": "https://online.metro-cc.ru/products/rioba-zelenyj-molochnyj-ulun-400g",
+    "brand": "RIOBA",
+    "regular_price": "549",
+    "promo_price": "499"
+  },
+  {
+    "id": "120706",
+    "name": "Чай Азерчай Букет черный байховый, 100г",
+    "link": "https://online.metro-cc.ru/products/100g-azerchaj-buket-chern-bajhovyj-kar-up",
+    "brand": "АЗЕРЧАЙ",
+    "regular_price": "129",
+    "promo_price": "125"
+  },
+  {
+    "id": "38353",
+    "name": "Чай Ahmad Tea English Breakfast черный (2г x 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/ahmad-tea-chernyj-english-breakfast-100x2g",
+    "brand": "AHMAD TEA",
+    "regular_price": "529",
+    "promo_price": null
+  },
+  {
+    "id": "225137",
+    "name": "Чай Richman Оолонг манго-персик, 40г",
+    "link": "https://online.metro-cc.ru/products/40g-chay-richman-oolong-mangopersik",
+    "brand": "RICHMAN",
+    "regular_price": "159",
+    "promo_price": "129"
+  },
+  {
+    "id": "288503",
+    "name": "Чай Newby Assam черный (2г x 50шт), 100г",
+    "link": "https://online.metro-cc.ru/products/chernyj-newby-assam-50-2g",
+    "brand": "NEWBY",
+    "regular_price": "1 299",
+    "promo_price": null
+  },
+  {
+    "id": "124920",
+    "name": "Чай Basilur 2в1 в ассортименте, 100г",
+    "link": "https://online.metro-cc.ru/products/100g-chaj-basilur-2v1-v-assortimente-zh-b",
+    "brand": "BASILUR",
+    "regular_price": "719",
+    "promo_price": "499"
+  },
+  {
+    "id": "76713",
+    "name": "Чай Newby Ассам черный листовой, 100г",
+    "link": "https://online.metro-cc.ru/products/chernyj-newby-assam-100g",
+    "brand": "NEWBY",
+    "regular_price": "799",
+    "promo_price": null
+  },
+  {
+    "id": "532198",
+    "name": "RIOBA Чай черный с чабрецом (2г х 20шт), 40г",
+    "link": "https://online.metro-cc.ru/products/rioba-chernyj-s-chabrecom-20x2g",
+    "brand": "RIOBA",
+    "regular_price": "285",
+    "promo_price": "239"
+  },
+  {
+    "id": "599077",
+    "name": "Чай Tess Lime зеленый с цедрой цитрусовых (1.5г х 100шт), 150г",
+    "link": "https://online.metro-cc.ru/products/tess-zelenyj-s-cedroj-citrusovyh-lime-100-15g",
+    "brand": "TESS",
+    "regular_price": "349",
+    "promo_price": "249"
+  },
+  {
+    "id": "314845",
+    "name": "Чай Akbar Gold черный цейлонский листовой, 250г",
+    "link": "https://online.metro-cc.ru/products/akbar-chernyj-bajhovyj-cejlonskij-gold-250g",
+    "brand": "AKBAR",
+    "regular_price": "399",
+    "promo_price": "329"
+  },
+  {
+    "id": "583705",
+    "name": "Чай Ahmad Tea Classic black Tea черный листовой классический, 200г",
+    "link": "https://online.metro-cc.ru/products/ahmad-tea-chernyj-listovoj-klassicheskij-classic-black-tea-200g",
+    "brand": "AHMAD TEA",
+    "regular_price": "275",
+    "promo_price": "229"
+  },
+  {
+    "id": "469173",
+    "name": "Чай Ahmad Tea зеленый листовой с жасмином, 200г",
+    "link": "https://online.metro-cc.ru/products/ahmad-tea-zelenyj-listovoj-s-zhasminom-200g",
+    "brand": "AHMAD TEA",
+    "regular_price": "469",
+    "promo_price": "349"
+  },
+  {
+    "id": "239430",
+    "name": "Чай черный Азерчай букет листовой, 1кг",
+    "link": "https://online.metro-cc.ru/products/chay-chernyy-azerchay-buket-listovoy-1kg",
+    "brand": "АЗЕРЧАЙ",
+    "regular_price": "1 299",
+    "promo_price": "1 229"
+  },
+  {
+    "id": "457288",
+    "name": "Чай Greenfield Summer Bouquet травяной (2г х 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/greenfield-travyanoj-summer-bouquet-100x2g",
+    "brand": "GREENFIELD",
+    "regular_price": "359",
+    "promo_price": null
+  },
+  {
+    "id": "395515",
+    "name": "Чай Майский Корона Российской Империи черный цейлонский крупнолистовой, 200г",
+    "link": "https://online.metro-cc.ru/products/majskij-chernyj-korona-rossijskoj-imperii-200g",
+    "brand": "МАЙСКИЙ",
+    "regular_price": "231",
+    "promo_price": "158"
+  },
+  {
+    "id": "241445",
+    "name": "Чай черный Newby с чабрецом листовой, 100г",
+    "link": "https://online.metro-cc.ru/products/chay-chernyy-newby-s-chabretsom-listovoy-100g",
+    "brand": "NEWBY",
+    "regular_price": "1 099",
+    "promo_price": null
+  },
+  {
+    "id": "544483",
+    "name": "RIOBA Чай черный листовой Эрл Грей, 400г",
+    "link": "https://online.metro-cc.ru/products/rioba-chernyj-erl-grej-400g",
+    "brand": "RIOBA",
+    "regular_price": "519",
+    "promo_price": "489"
+  },
+  {
+    "id": "225134",
+    "name": "Чай зеленый Richman Young Hyson, 100г",
+    "link": "https://online.metro-cc.ru/products/100g-chay-zelenyy-richman-young-hyson",
+    "brand": "RICHMAN",
+    "regular_price": "234",
+    "promo_price": "169"
+  },
+  {
+    "id": "225138",
+    "name": "Чай зеленый Richman цитрусовый коктейль, 40г",
+    "link": "https://online.metro-cc.ru/products/40g-chay-zelenyy-richman-tsitrusovyy-kokteyl",
+    "brand": "RICHMAN",
+    "regular_price": "159",
+    "promo_price": "129"
+  },
+  {
+    "id": "494569",
+    "name": "Чай Tess Sunrise черный листовой, 200г",
+    "link": "https://online.metro-cc.ru/products/tess-chernyj-sunrise-200g",
+    "brand": "TESS",
+    "regular_price": "329",
+    "promo_price": null
+  },
+  {
+    "id": "524041",
+    "name": "Чай Basilur Белая луна зеленый, 100г",
+    "link": "https://online.metro-cc.ru/products/chernyj-basilur-magic-nights-100g",
+    "brand": "BASILUR",
+    "regular_price": "479",
+    "promo_price": null
+  },
+  {
+    "id": "524042",
+    "name": "Чай Basilur Остров зеленый листовой, 100г",
+    "link": "https://online.metro-cc.ru/products/basilur-zelenyj-ostrov-cejlon-100g",
+    "brand": "BASILUR",
+    "regular_price": "339",
+    "promo_price": null
+  },
+  {
+    "id": "406037",
+    "name": "RIOBA Чай черный Ассам (2г х 20шт), 40г",
+    "link": "https://online.metro-cc.ru/products/rioba-chernyj-assam-20x2g",
+    "brand": "RIOBA",
+    "regular_price": "247",
+    "promo_price": "209"
+  },
+  {
+    "id": "121855",
+    "name": "Чай Чёрный дракон молочный улун, 100г",
+    "link": "https://online.metro-cc.ru/products/100g-chyornyj-drakon-molochnyj-ulun",
+    "brand": "ЧЁРНЫЙ ДРАКОН",
+    "regular_price": "257",
+    "promo_price": null
+  },
+  {
+    "id": "121853",
+    "name": "Чай Чёрный дракон зеленый с жасмином, 100г",
+    "link": "https://online.metro-cc.ru/products/100g-chyornyj-drakon-zelyonyj-s-zhasminom",
+    "brand": "ЧЁРНЫЙ ДРАКОН",
+    "regular_price": "199",
+    "promo_price": null
+  },
+  {
+    "id": "407594",
+    "name": "RIOBA Чай зеленый Жасмин (2г х 20шт), 40г",
+    "link": "https://online.metro-cc.ru/products/rioba-zelenyj-zhasmin-20x2g",
+    "brand": "RIOBA",
+    "regular_price": "369",
+    "promo_price": "309"
+  },
+  {
+    "id": "243564",
+    "name": "Чай черный Susan цейлонский крупнолистовой, 200г",
+    "link": "https://online.metro-cc.ru/products/chay-chernyy-susan-tseylonskiy-krupnolistovoy-200g",
+    "brand": "SUSAN",
+    "regular_price": "329",
+    "promo_price": "289"
+  },
+  {
+    "id": "524043",
+    "name": "Чай Basilur Остров золотой листовой черный, 100г",
+    "link": "https://online.metro-cc.ru/products/basilur-chernyj-zolotoj-ostrov-100g",
+    "brand": "BASILUR",
+    "regular_price": "339",
+    "promo_price": null
+  },
+  {
+    "id": "288493",
+    "name": "Чай Newby Earl Grey черный (2г x 50шт), 100г",
+    "link": "https://online.metro-cc.ru/products/chernyj-newby-earl-grey-50-2g",
+    "brand": "NEWBY",
+    "regular_price": "1 249",
+    "promo_price": null
+  },
+  {
+    "id": "288494",
+    "name": "Чай Newby Ceylon черный (2г x 50шт), 100г",
+    "link": "https://online.metro-cc.ru/products/chernyj-newby-ceylon-50-2g",
+    "brand": "NEWBY",
+    "regular_price": "1 299",
+    "promo_price": null
+  },
+  {
+    "id": "468794",
+    "name": "Чай Maitre de The Кения листовой, 100г",
+    "link": "https://online.metro-cc.ru/products/maitre-keniya-100g",
+    "brand": "MAITRE DE THE",
+    "regular_price": "419",
+    "promo_price": null
+  },
+  {
+    "id": "426135",
+    "name": "Чай Greenfield Earl Grey Fantasy черный, 200г",
+    "link": "https://online.metro-cc.ru/products/greenfield-chernyj-earl-grey-fantasy-200g",
+    "brand": "GREENFIELD",
+    "regular_price": "289",
+    "promo_price": null
+  },
+  {
+    "id": "121854",
+    "name": "Чай Чёрный дракон зеленый молочный, 100г",
+    "link": "https://online.metro-cc.ru/products/100g-chyornyj-drakon-molochnyj-zelenyj",
+    "brand": "ЧЁРНЫЙ ДРАКОН",
+    "regular_price": "199",
+    "promo_price": null
+  },
+  {
+    "id": "121852",
+    "name": "Чай Чёрный дракон женьшеневый улун, 100г",
+    "link": "https://online.metro-cc.ru/products/100g-chyornyj-drakon-zhenshenevyj-ulun",
+    "brand": "ЧЁРНЫЙ ДРАКОН",
+    "regular_price": "257",
+    "promo_price": null
+  },
+  {
+    "id": "469172",
+    "name": "Чай Ahmad Tea зеленый листовой, 200г",
+    "link": "https://online.metro-cc.ru/products/ahmad-tea-zelenyj-listovoj-200g",
+    "brand": "AHMAD TEA",
+    "regular_price": "319",
+    "promo_price": "239"
+  },
+  {
+    "id": "121244",
+    "name": "Чай Richard Royal Kenya черный крупнолистовой, 180г",
+    "link": "https://online.metro-cc.ru/products/180g-richard-royal-kenya",
+    "brand": "RICHARD",
+    "regular_price": "319",
+    "promo_price": "199"
+  },
+  {
+    "id": "241442",
+    "name": "Чай зеленый Newby Сенча листовой, 100г",
+    "link": "https://online.metro-cc.ru/products/chay-zelenyy-newby-sencha-listovoy-100g",
+    "brand": "NEWBY",
+    "regular_price": "839",
+    "promo_price": null
+  },
+  {
+    "id": "204657",
+    "name": "Чай Майский черный сердце цейлона, 100г",
+    "link": "https://online.metro-cc.ru/products/100g-chay-mayskiy-chernyy-serdtse-tseylona-listovoy",
+    "brand": "МАЙСКИЙ",
+    "regular_price": "127",
+    "promo_price": "99"
+  },
+  {
+    "id": "225338",
+    "name": "Чай черный Richman английский завтрак, 40г",
+    "link": "https://online.metro-cc.ru/products/40g-chay-chernyy-richman-angliyskiy-zavtrak",
+    "brand": "RICHMAN",
+    "regular_price": "159",
+    "promo_price": "129"
+  },
+  {
+    "id": "468922",
+    "name": "Чай Ahmad Tea Earl Grey черный листовой со вкусом и ароматом бергамота, 200г",
+    "link": "https://online.metro-cc.ru/products/ahmad-tea-chernyj-earl-grey-200g-468922",
+    "brand": "AHMAD TEA",
+    "regular_price": "379",
+    "promo_price": "299"
+  },
+  {
+    "id": "204657",
+    "name": "Чай Майский черный сердце цейлона, 100г",
+    "link": "https://online.metro-cc.ru/products/100g-chay-mayskiy-chernyy-serdtse-tseylona-listovoy",
+    "brand": "МАЙСКИЙ",
+    "regular_price": "127",
+    "promo_price": "99"
+  },
+  {
+    "id": "644131",
+    "name": "Чай Richard Royal Ceylon черный, 90г",
+    "link": "https://online.metro-cc.ru/products/chernyj-richard-royal-ceylon-90g",
+    "brand": "RICHARD",
+    "regular_price": "147",
+    "promo_price": "129"
+  },
+  {
+    "id": "524040",
+    "name": "Чай Basilur Magic Nights листовой черный, 100г",
+    "link": "https://online.metro-cc.ru/products/basilur-chernyj-magic-nights-100g",
+    "brand": "BASILUR",
+    "regular_price": "479",
+    "promo_price": null
+  },
+  {
+    "id": "602050",
+    "name": "Чай Master Team черный байховый крупнолистовой, 800г",
+    "link": "https://online.metro-cc.ru/products/master-team-standart-704-chernyj-bajhovyj-cejlonskij-vysshego-sorta-800gr",
+    "brand": "MASTER TEAM",
+    "regular_price": "959",
+    "promo_price": null
+  },
+  {
+    "id": "539763",
+    "name": "Чай Newby Pride of Africa черный листовой, 100г",
+    "link": "https://online.metro-cc.ru/products/chernyj-newby-pride-of-africa-100g",
+    "brand": "NEWBY",
+    "regular_price": "779",
+    "promo_price": null
+  },
+  {
+    "id": "524035",
+    "name": "Чай Basilur Ceylon черный (2г x 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/basilur-ceylon-100h2-g",
+    "brand": "BASILUR",
+    "regular_price": "569",
+    "promo_price": null
+  },
+  {
+    "id": "239455",
+    "name": "Чай черный Befruitbe ананас-яблоко-мята, 140г",
+    "link": "https://online.metro-cc.ru/products/chay-chernyy-befruitbe-ananas-yabloko-myata-140g",
+    "brand": "BEFRUITBE",
+    "regular_price": "639",
+    "promo_price": null
+  },
+  {
+    "id": "494567",
+    "name": "Чай Greenfield Jasmine Dream зеленый (2г х 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/greenfield-zelenyj-jasmine-dream-100x2g",
+    "brand": "GREENFIELD",
+    "regular_price": "359",
+    "promo_price": null
+  },
+  {
+    "id": "544485",
+    "name": "RIOBA Чай зеленый листовой Зеленый Сенча, 400г",
+    "link": "https://online.metro-cc.ru/products/rioba-zelenyj-zelenyj-sencha-400g",
+    "brand": "RIOBA",
+    "regular_price": "839",
+    "promo_price": "799"
+  },
+  {
+    "id": "457282",
+    "name": "Чай Tess Pleasure Шиповник и яблоко черный байховый (1.5г х 100шт), 150г",
+    "link": "https://online.metro-cc.ru/products/tess-chernyj-bajhovyj-shipovnik-yabloko-pleasure-100-15g",
+    "brand": "TESS",
+    "regular_price": "349",
+    "promo_price": "249"
+  },
+  {
+    "id": "122520",
+    "name": "Чай Принцесса Нури Высокогорный черный, листовой, 250г",
+    "link": "https://online.metro-cc.ru/products/250g-princessa-nuri-vysokogornyj-listovoj",
+    "brand": "ПРИНЦЕССА НУРИ",
+    "regular_price": "221",
+    "promo_price": null
+  },
+  {
+    "id": "239469",
+    "name": "Чай черный Befruitbe имбирь-апельсин-малина, 100г",
+    "link": "https://online.metro-cc.ru/products/chay-chernyy-befruitbe-imbir-apelsin-malina-100g",
+    "brand": "BEFRUITBE",
+    "regular_price": "609",
+    "promo_price": null
+  },
+  {
+    "id": "457294",
+    "name": "Чай Greenfield Kenyan Sunrise черный листовой, 200г",
+    "link": "https://online.metro-cc.ru/products/greenfield-chernyj-kenyan-sunrise-200g",
+    "brand": "GREENFIELD",
+    "regular_price": "289",
+    "promo_price": null
+  },
+  {
+    "id": "122517",
+    "name": "Чай Принцесса Канди Медиум черный, листовой, 100г",
+    "link": "https://online.metro-cc.ru/products/100g-princessa-kandi-medium-listovoj",
+    "brand": "ПРИНЦЕССА КАНДИ",
+    "regular_price": "68",
+    "promo_price": null
+  },
+  {
+    "id": "207125",
+    "name": "Чай Akbar черный яблоко-шиповник (1.5г x 100шт), 150г",
+    "link": "https://online.metro-cc.ru/products/100h15g-chay-akbar-chyornyy-yablokoshipovnik-pak",
+    "brand": "AKBAR",
+    "regular_price": "379",
+    "promo_price": "239"
+  },
+  {
+    "id": "117264",
+    "name": "aro Чай черный пакетированный (1.8г х 1000шт), 1.8кг",
+    "link": "https://online.metro-cc.ru/products/1000x18g-aro-chernyj-pak",
+    "brand": "ARO",
+    "regular_price": "1 139",
+    "promo_price": null
+  },
+  {
+    "id": "208705",
+    "name": "Чай Азерчай черный букет (2г x 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/100h2g-chay-azerchay-chyornyy-buket-paketirovannyy",
+    "brand": "АЗЕРЧАЙ",
+    "regular_price": "249",
+    "promo_price": "209"
+  },
+  {
+    "id": "457306",
+    "name": "Чай Greenfield Jasmine Dream зеленый листовой, 200г",
+    "link": "https://online.metro-cc.ru/products/greenfield-zelenyj-jasmine-dream-200g",
+    "brand": "GREENFIELD",
+    "regular_price": "289",
+    "promo_price": null
+  },
+  {
+    "id": "250785",
+    "name": "Чай Akbar Mountain Fresh черный (2г х 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/akbar-chernyj-mountain-fresh-100-2g",
+    "brand": "AKBAR",
+    "regular_price": "279",
+    "promo_price": "218"
+  },
+  {
+    "id": "524036",
+    "name": "Чай Basilur Masala Chai листовой черный, 100г",
+    "link": "https://online.metro-cc.ru/products/chernyj-basilur-masala-100g",
+    "brand": "BASILUR",
+    "regular_price": "479",
+    "promo_price": null
+  },
+  {
+    "id": "228386",
+    "name": "Чай зеленый Greenfield Flying Dragon листовой, 100г",
+    "link": "https://online.metro-cc.ru/products/100g-chay-zelenyy-greenfield-flying-dragon-listovoy",
+    "brand": "GREENFIELD",
+    "regular_price": "205",
+    "promo_price": null
+  },
+  {
+    "id": "243559",
+    "name": "Чай черный Susan цейлонский с бергамотом крупнолистовой, 100г",
+    "link": "https://online.metro-cc.ru/products/chay-chernyy-susan-tseylonskiy-s-bergamotom-krupnolistovoy-100g",
+    "brand": "SUSAN",
+    "regular_price": "189",
+    "promo_price": "169"
+  },
+  {
+    "id": "241446",
+    "name": "Чай черный Newby Масала листовой, 100г",
+    "link": "https://online.metro-cc.ru/products/chay-chernyy-newby-masala-listovoy-100g",
+    "brand": "NEWBY",
+    "regular_price": "1 049",
+    "promo_price": null
+  },
+  {
+    "id": "122518",
+    "name": "Чай Принцесса Канди Медиум черный, листовой, 200г",
+    "link": "https://online.metro-cc.ru/products/200g-princessa-kandi-medium-listovoj",
+    "brand": "ПРИНЦЕССА КАНДИ",
+    "regular_price": "189",
+    "promo_price": null
+  },
+  {
+    "id": "599476",
+    "name": "Чай Richard Lord Grey черный байховый (2г х 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/richard-chernyj-bajhovyj-lord-grey-100-pak",
+    "brand": "RICHARD",
+    "regular_price": "319",
+    "promo_price": "229"
+  },
+  {
+    "id": "225337",
+    "name": "Чай черный Richman Earl Grey крупный лист, 100г",
+    "link": "https://online.metro-cc.ru/products/100g-chay-chernyy-richman-erl-grey-krupnyy-list",
+    "brand": "RICHMAN",
+    "regular_price": "234",
+    "promo_price": "179"
+  },
+  {
+    "id": "656215",
+    "name": "RIOBA Чай черный Брусничный (2г х 20шт), 40г",
+    "link": "https://online.metro-cc.ru/products/rioba-chernyj-brusnichnyj-20x2g",
+    "brand": "RIOBA",
+    "regular_price": "275",
+    "promo_price": "239"
+  },
+  {
+    "id": "501419",
+    "name": "Чай Curtis зеленый мохито (1.8г х 20шт), 36г",
+    "link": "https://online.metro-cc.ru/products/zelenyj-curtis-fresh-mojito-20x18g",
+    "brand": "CURTIS",
+    "regular_price": "146",
+    "promo_price": "68"
+  },
+  {
+    "id": "239421",
+    "name": "Чай черный Richman India Assam листовой, 100г",
+    "link": "https://online.metro-cc.ru/products/100g-chay-chernyy-richman-india-assam-listovoy",
+    "brand": "RICHMAN",
+    "regular_price": "234",
+    "promo_price": "169"
+  },
+  {
+    "id": "501419",
+    "name": "Чай Curtis зеленый мохито (1.8г х 20шт), 36г",
+    "link": "https://online.metro-cc.ru/products/zelenyj-curtis-fresh-mojito-20x18g",
+    "brand": "CURTIS",
+    "regular_price": "146",
+    "promo_price": "68"
+  },
+  {
+    "id": "207117",
+    "name": "Чай Riston Elite Ceylon черный листовой, 200г",
+    "link": "https://online.metro-cc.ru/products/200g-chay-riston-elite-ceylon-chyornyy-listovoy",
+    "brand": "RISTON",
+    "regular_price": "309",
+    "promo_price": null
+  },
+  {
+    "id": "633262",
+    "name": "Чай Greenfield English Edition листовой черный, 200г",
+    "link": "https://online.metro-cc.ru/products/greenfield-chernyj-english-edition-200g",
+    "brand": "GREENFIELD",
+    "regular_price": "289",
+    "promo_price": null
+  },
+  {
+    "id": "121242",
+    "name": "Чай Richard Lord Grey черный листовой с добавками, 180г",
+    "link": "https://online.metro-cc.ru/products/180g-richard-lord-grey",
+    "brand": "RICHARD",
+    "regular_price": "319",
+    "promo_price": "199"
+  },
+  {
+    "id": "244050",
+    "name": "Чай черный Ahmad Tea Классический листовой, 500г",
+    "link": "https://online.metro-cc.ru/products/500g-chay-chernyy-ahmad-tea-klassicheskiy-listovoy",
+    "brand": "AHMAD TEA",
+    "regular_price": "819",
+    "promo_price": null
+  },
+  {
+    "id": "514694",
+    "name": "Чай Ahmad Tea English Breakfast черный листовой, 200г",
+    "link": "https://online.metro-cc.ru/products/ahmad-tea-chernyj-english-breakfast-200g",
+    "brand": "AHMAD TEA",
+    "regular_price": "379",
+    "promo_price": "299"
+  },
+  {
+    "id": "228379",
+    "name": "Чай черный Принцесса Нури высокогорный гранулированный, 250г",
+    "link": "https://online.metro-cc.ru/products/250g-chay-chernyy-printsessa-nuri-vysokogornyy-granulirovannyy",
+    "brand": "ПРИНЦЕССА НУРИ",
+    "regular_price": "199",
+    "promo_price": null
+  },
+  {
+    "id": "428444",
+    "name": "Чай Greenfield Golden Ceylon черный крупнолистовой, 100г",
+    "link": "https://online.metro-cc.ru/products/100g-chernyj-zolotoj-cejlon-428444",
+    "brand": "GREENFIELD",
+    "regular_price": "189",
+    "promo_price": null
+  },
+  {
+    "id": "60430",
+    "name": "Чай Green Panda Красный петух крупнолистовой, 100г",
+    "link": "https://online.metro-cc.ru/products/zelenaya-panda-krasnyj-petuh-krupnyj-list-100-g",
+    "brand": "GREEN PANDA",
+    "regular_price": "181",
+    "promo_price": null
+  },
+  {
+    "id": "113204",
+    "name": "Чай Basilur Избранная классика Эрл Грей черный, 100г",
+    "link": "https://online.metro-cc.ru/products/100g-chaj-basilur-izbrannaya-klassika-erl-grej",
+    "brand": "BASILUR",
+    "regular_price": "479",
+    "promo_price": null
+  },
+  {
+    "id": "120257",
+    "name": "Чай Curtis Delicate черный (1.7г x 25шт), 43г",
+    "link": "https://online.metro-cc.ru/products/25sht-curtis-delikato-chernyj",
+    "brand": "CURTIS",
+    "regular_price": "99",
+    "promo_price": "79"
+  },
+  {
+    "id": "324335",
+    "name": "Чай Akbar Ceylon черный (2г х 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/chernyj-akbar-ceylon-100h2g",
+    "brand": "AKBAR",
+    "regular_price": "279",
+    "promo_price": "229"
+  },
+  {
+    "id": "122515",
+    "name": "Чай Greenfield Earl grey fantasy черный с бергамотом, 100г",
+    "link": "https://online.metro-cc.ru/products/100g-greenfield-earl-grey-listovoj",
+    "brand": "GREENFIELD",
+    "regular_price": "204",
+    "promo_price": null
+  },
+  {
+    "id": "494566",
+    "name": "Чай Greenfield Classic Breakfast черный (2г х 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/greenfield-chernyj-slassic-breakfast-100x2g",
+    "brand": "GREENFIELD",
+    "regular_price": "359",
+    "promo_price": null
+  },
+  {
+    "id": "207124",
+    "name": "Чай Akbar черный малина-черника (1.5г x 100шт), 150г",
+    "link": "https://online.metro-cc.ru/products/100h15g-chay-akbar-chyornyy-malinachernika-pak",
+    "brand": "AKBAR",
+    "regular_price": "379",
+    "promo_price": "239"
+  },
+  {
+    "id": "239420",
+    "name": "Чай черный Richman Ceylon Orange Pekoe листовой, 100г",
+    "link": "https://online.metro-cc.ru/products/100g-chay-chyornyy-richman-ceylon-orange-pekoe-listovoy",
+    "brand": "RICHMAN",
+    "regular_price": "234",
+    "promo_price": "169"
+  },
+  {
+    "id": "207116",
+    "name": "Чай Riston Elite English черный с зеленым листовой, 200г",
+    "link": "https://online.metro-cc.ru/products/200g-chay-riston-elite-english-chyornyy-s-zelenym-list",
+    "brand": "RISTON",
+    "regular_price": "309",
+    "promo_price": null
+  },
+  {
+    "id": "228385",
+    "name": "Чай черный Принцесса Нури высокогорный листовой, 100г",
+    "link": "https://online.metro-cc.ru/products/100g-chay-chernyy-printsessa-nuri-vysokogornyy-listovoy",
+    "brand": "ПРИНЦЕССА НУРИ",
+    "regular_price": "98",
+    "promo_price": null
+  },
+  {
+    "id": "135143",
+    "name": "Чай черный Алтайвита с шиповником (2г х 15пак), 30г",
+    "link": "https://online.metro-cc.ru/products/chernyj-altajvita-s-shipovnikom-15x2g",
+    "brand": "АЛТАЙВИТА",
+    "regular_price": "131",
+    "promo_price": "109"
+  },
+  {
+    "id": "239456",
+    "name": "Чай черный Befruitbe имбирь-карамель-грецкий орех, 115г",
+    "link": "https://online.metro-cc.ru/products/chay-chernyy-befruitbe-imbir-karamel-gretskiy-oreh-115g",
+    "brand": "BEFRUITBE",
+    "regular_price": "619",
+    "promo_price": null
+  },
+  {
+    "id": "469047",
+    "name": "Чай Greenfield Summer Bouquet (2г х 25 пак), 50г",
+    "link": "https://online.metro-cc.ru/products/greenfield-fruktovo-yagodno-travyanoj-summer-bouquet-25x2g",
+    "brand": "GREENFIELD",
+    "regular_price": "109",
+    "promo_price": "89"
+  },
+  {
+    "id": "138048",
+    "name": "Чай Befruitbe черный Счастья в новом году, 50г",
+    "link": "https://online.metro-cc.ru/products/50g-chay-befruitbe-chernyy-schastya-zel",
+    "brand": "BEFRUITBE",
+    "regular_price": "94",
+    "promo_price": "69"
+  },
+  {
+    "id": "407592",
+    "name": "RIOBA Чай зеленый Изумрудные спиральки (2г х 20шт), 40г",
+    "link": "https://online.metro-cc.ru/products/rioba-zelenyj-izumrudnye-spiralki-20x2g",
+    "brand": "RIOBA",
+    "regular_price": "256",
+    "promo_price": "219"
+  },
+  {
+    "id": "632941",
+    "name": "Чай Tess Kenya черный байховый (2г x 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/tess-kenya-chernyj-bajhovyj-100-2g",
+    "brand": "TESS",
+    "regular_price": "349",
+    "promo_price": "249"
+  },
+  {
+    "id": "469044",
+    "name": "Чай Greenfield Green Melissa зеленый (1.5г х 25 пак), 38г",
+    "link": "https://online.metro-cc.ru/products/greenfield-zelenyj-s-myatoj-melissoj-green-melissa-25x15g",
+    "brand": "GREENFIELD",
+    "regular_price": "109",
+    "promo_price": "89"
+  },
+  {
+    "id": "211512",
+    "name": "RIOBA Чай зеленый классический (2г x 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/25h2g-chay-rioba-zelenyy-klassicheskiy",
+    "brand": "RIOBA",
+    "regular_price": "94",
+    "promo_price": null
+  },
+  {
+    "id": "466445",
+    "name": "Чай Майский Корона Российской Империи черный крупнолистовой, 100г",
+    "link": "https://online.metro-cc.ru/products/majskij-chernyj-korona-rossijskoj-imperii-100g",
+    "brand": "МАЙСКИЙ",
+    "regular_price": "127",
+    "promo_price": "99"
+  },
+  {
+    "id": "662550",
+    "name": "Чай Curtis Delicate mango в пирамидках (1.8г х 20шт), 36г",
+    "link": "https://online.metro-cc.ru/products/curtis-mango-20-piramidok-h-18-g",
+    "brand": "CURTIS",
+    "regular_price": "146",
+    "promo_price": "68"
+  },
+  {
+    "id": "208709",
+    "name": "Чай Азерчай черный букет (2г x 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/25h2g-chay-azerchay-chyornyy-buket-paketirovannyy",
+    "brand": "АЗЕРЧАЙ",
+    "regular_price": "119",
+    "promo_price": "69"
+  },
+  {
+    "id": "211780",
+    "name": "RIOBA Чай черный классический (2г x 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/rioba-chay-chernyy-klassicheskiy-2g-x-25",
+    "brand": "RIOBA",
+    "regular_price": "105",
+    "promo_price": null
+  },
+  {
+    "id": "211780",
+    "name": "RIOBA Чай черный классический (2г x 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/rioba-chay-chernyy-klassicheskiy-2g-x-25",
+    "brand": "RIOBA",
+    "regular_price": "105",
+    "promo_price": null
+  },
+  {
+    "id": "60429",
+    "name": "Чай Green Panda Молочный туман зеленый оолонг крупнолистовой, 100г",
+    "link": "https://online.metro-cc.ru/products/art_60429",
+    "brand": "GREEN PANDA",
+    "regular_price": "256",
+    "promo_price": null
+  },
+  {
+    "id": "113203",
+    "name": "Чай Basilur Избранная классика Английский завтрак черный, 100г",
+    "link": "https://online.metro-cc.ru/products/100g-chaj-basilur-izbran-klassika-angl-zavtrak",
+    "brand": "BASILUR",
+    "regular_price": "479",
+    "promo_price": null
+  },
+  {
+    "id": "239329",
+    "name": "Чай зеленый Richman China Milk Oolong листовой, 100г",
+    "link": "https://online.metro-cc.ru/products/100g-chay-zelyonyy-richman-china-milk-oolong-listovoy",
+    "brand": "RICHMAN",
+    "regular_price": "259",
+    "promo_price": "209"
+  },
+  {
+    "id": "117265",
+    "name": "aro Чай черный пакетированный (1.8г х 20шт), 36г",
+    "link": "https://online.metro-cc.ru/products/20x18g-aro-chernyj-pak",
+    "brand": "ARO",
+    "regular_price": "23",
+    "promo_price": null
+  },
+  {
+    "id": "509617",
+    "name": "RIOBA Чай зеленый байховый Имбирный апельсин (2г х 20шт), 40г",
+    "link": "https://online.metro-cc.ru/products/rioba-zelenyj-bajhovyj-imbirnyj-apelsin-20x2g",
+    "brand": "RIOBA",
+    "regular_price": "247",
+    "promo_price": "209"
+  },
+  {
+    "id": "229887",
+    "name": "Чай черный Tess Pleasure шиповник-яблоко листовой, 100г",
+    "link": "https://online.metro-cc.ru/products/100g-chay-chernyy-tess-pleasure-shipovnikyabloko-listovoy",
+    "brand": "TESS",
+    "regular_price": "139",
+    "promo_price": null
+  },
+  {
+    "id": "642426",
+    "name": "RIOBA Чай черный Английский завтрак (2г х 20шт), 40г",
+    "link": "https://online.metro-cc.ru/products/rioba-chernyj-anglijskij-zavtrak-20x2g",
+    "brand": "RIOBA",
+    "regular_price": "275",
+    "promo_price": "239"
+  },
+  {
+    "id": "241443",
+    "name": "Чай зеленый Newby Марокканский с мятой листовой, 100г",
+    "link": "https://online.metro-cc.ru/products/chay-zelenyy-newby-marokkanskiy-s-myatoy-listovoy-100g",
+    "brand": "NEWBY",
+    "regular_price": "1 049",
+    "promo_price": null
+  },
+  {
+    "id": "624919",
+    "name": "Чай Richard Royal English Breakfast черный (2г x 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/chernyj-richard-royal-english-breakfast-100x2g",
+    "brand": "RICHARD",
+    "regular_price": "319",
+    "promo_price": "229"
+  },
+  {
+    "id": "239696",
+    "name": "Чай зеленый Befruitbe имбирь-вишня-календула-можжевельник, 50г",
+    "link": "https://online.metro-cc.ru/products/chay-zelenyy-befruitbe-imbir-vishnya-kalendula-mozhzhevelnik-50g",
+    "brand": "BEFRUITBE",
+    "regular_price": "299",
+    "promo_price": "229"
+  },
+  {
+    "id": "601944",
+    "name": "Чай Ahmad Tea черный классический (2г х 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/ahmad-tea-chernyj-classic-black-tea-100-2g",
+    "brand": "AHMAD TEA",
+    "regular_price": "309",
+    "promo_price": null
+  },
+  {
+    "id": "211511",
+    "name": "RIOBA Чай зеленый классический (2г x 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/100h2g-chay-rioba-zelenyy-klassicheskiy",
+    "brand": "RIOBA",
+    "regular_price": "459",
+    "promo_price": null
+  },
+  {
+    "id": "61831",
+    "name": "RIOBA Чай Пляжный мохито черный (2г х 20шт), 40г",
+    "link": "https://online.metro-cc.ru/products/rioba-plyazhnyj-mohito-chernyj-20-paketikov-h-2-g",
+    "brand": "RIOBA",
+    "regular_price": "275",
+    "promo_price": "239"
+  },
+  {
+    "id": "211472",
+    "name": "RIOBA Чай зеленый с мелиссой (2г x 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/25h2g-chay-rioba-zelenyy-s-melissoy",
+    "brand": "RIOBA",
+    "regular_price": "114",
+    "promo_price": null
+  },
+  {
+    "id": "135144",
+    "name": "Чай черный Алтайвита со смородиной (2г х 15пак), 30г",
+    "link": "https://online.metro-cc.ru/products/chernyj-altajvita-so-smorodinoj-15x2g",
+    "brand": "АЛТАЙВИТА",
+    "regular_price": "131",
+    "promo_price": "109"
+  },
+  {
+    "id": "241449",
+    "name": "Чай черный Newby Чабрец пакетированный (2г x 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/chay-chernyy-newby-chabrets-paketirovannyy-2g-x-25sht-50g",
+    "brand": "NEWBY",
+    "regular_price": "1 029",
+    "promo_price": null
+  },
+  {
+    "id": "405468",
+    "name": "RIOBA Чай черный Эрл Грей (2г х 20шт), 40г",
+    "link": "https://online.metro-cc.ru/products/rioba-chernyj-erl-grej-20x2g",
+    "brand": "RIOBA",
+    "regular_price": "247",
+    "promo_price": "209"
+  },
+  {
+    "id": "211781",
+    "name": "RIOBA Чай черный с мятой (2г x 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/rioba-chay-chernyy-s-myatoy-2g-x-25",
+    "brand": "RIOBA",
+    "regular_price": "94",
+    "promo_price": null
+  },
+  {
+    "id": "633257",
+    "name": "Чай Greenfield Peach mellow peach зеленый (1.8г x 25шт), 45г",
+    "link": "https://online.metro-cc.ru/products/greenfield-zelenyj-s-aromatom-persika-cedroj-mandarina-peach-mellow-25-18g",
+    "brand": "GREENFIELD",
+    "regular_price": "109",
+    "promo_price": "89"
+  },
+  {
+    "id": "469147",
+    "name": "Чай Greenfield Earl Grey Fantasy черный (2г х 25 пак), 50г",
+    "link": "https://online.metro-cc.ru/products/greenfield-chernyj-cejlonskij-bajhovyj-s-aromatom-bergamota-earl-grey-fantasy-sashe-25-2g",
+    "brand": "GREENFIELD",
+    "regular_price": "109",
+    "promo_price": "89"
+  },
+  {
+    "id": "211768",
+    "name": "RIOBA Чай черный классический (2г x 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/100h2g-chay-rioba-chernyy-klassicheskiy",
+    "brand": "RIOBA",
+    "regular_price": "409",
+    "promo_price": null
+  },
+  {
+    "id": "288495",
+    "name": "Чай Newby Jasmine Blossom зеленый (2г x 50шт), 100г",
+    "link": "https://online.metro-cc.ru/products/newby-zelenyj-jasmine-blossom-50-2g",
+    "brand": "NEWBY",
+    "regular_price": "1 249",
+    "promo_price": null
+  },
+  {
+    "id": "468918",
+    "name": "Чай Ahmad Tea Ceylon High Mountain черный листовой, 200г",
+    "link": "https://online.metro-cc.ru/products/ahmad-tea-chernyj-ceylon-high-mountain-200g",
+    "brand": "AHMAD TEA",
+    "regular_price": "379",
+    "promo_price": "299"
+  },
+  {
+    "id": "61832",
+    "name": "RIOBA Чай Лесные Десерты зеленый (2г х 20шт), 40г",
+    "link": "https://online.metro-cc.ru/products/rioba-lesnye-deserty-zelenyj-20-paketikov-h-2-g",
+    "brand": "RIOBA",
+    "regular_price": "281",
+    "promo_price": "239"
+  },
+  {
+    "id": "395535",
+    "name": "Чай Майский Цейлон черный отборный (2г x 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/majskij-chernyj-otbornyj-cejlon-100x2g",
+    "brand": "МАЙСКИЙ",
+    "regular_price": "226",
+    "promo_price": "169"
+  },
+  {
+    "id": "495163",
+    "name": "RIOBA Чай черный для заваривания в чайнике С чабрецом (5г х 20шт), 100г",
+    "link": "https://online.metro-cc.ru/products/rioba-chernyj-dlya-zavarivaniya-v-chajnike-s-chabrecom-20x5g",
+    "brand": "RIOBA",
+    "regular_price": "409",
+    "promo_price": "349"
+  },
+  {
+    "id": "204641",
+    "name": "Чай Richard черный персик-мята (1.7г x 25шт), 43г",
+    "link": "https://online.metro-cc.ru/products/25h17g-chay-richard-chyornyy-persik-myata-paketirovannyy",
+    "brand": "RICHARD",
+    "regular_price": "108",
+    "promo_price": "99"
+  },
+  {
+    "id": "228229",
+    "name": "Чай Greenfield набор 24 вида, 167г",
+    "link": "https://online.metro-cc.ru/products/1672g-chay-greenfield-nabor-24-vida",
+    "brand": "GREENFIELD",
+    "regular_price": "749",
+    "promo_price": null
+  },
+  {
+    "id": "469491",
+    "name": "Чай Майский черный отборный (2г x 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/majskij-chernyj-otbornyj-25h2-g",
+    "brand": "МАЙСКИЙ",
+    "regular_price": "64",
+    "promo_price": "54"
+  },
+  {
+    "id": "136223",
+    "name": "Чай Richard Royal Lemon ароматизированный (1.7г х 25шт), 42г",
+    "link": "https://online.metro-cc.ru/products/chay-richard-royal-lemon-paketirovannyy-25-x-17g",
+    "brand": "RICHARD",
+    "regular_price": "108",
+    "promo_price": "99"
+  },
+  {
+    "id": "237822",
+    "name": "Чай черный Yantra Ceylon завтрак (2г x 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/chay-chernyy-yantra-ceylon-zavtrak-2g-x-100sht-200g",
+    "brand": "YANTRA",
+    "regular_price": "539",
+    "promo_price": null
+  },
+  {
+    "id": "239299",
+    "name": "Чай зеленый Richard Relax пакетированный (1.5г x 20шт), 30г",
+    "link": "https://online.metro-cc.ru/products/20shth15g-chay-zelyonyy-richard-relax-paketirovannyy",
+    "brand": "RICHARD",
+    "regular_price": "116",
+    "promo_price": "99"
+  },
+  {
+    "id": "239378",
+    "name": "Чай черный Richard Energy пакетированный (1.7г x 20шт), 34г",
+    "link": "https://online.metro-cc.ru/products/20shth17g-chay-chyornyy-richard-energy-paketirovannyy",
+    "brand": "RICHARD",
+    "regular_price": "116",
+    "promo_price": "99"
+  },
+  {
+    "id": "495163",
+    "name": "RIOBA Чай черный для заваривания в чайнике С чабрецом (5г х 20шт), 100г",
+    "link": "https://online.metro-cc.ru/products/rioba-chernyj-dlya-zavarivaniya-v-chajnike-s-chabrecom-20x5g",
+    "brand": "RIOBA",
+    "regular_price": "409",
+    "promo_price": "349"
+  },
+  {
+    "id": "288497",
+    "name": "Чай Newby Green Sencha, зеленый (2г x 50шт), 100г",
+    "link": "https://online.metro-cc.ru/products/zelenyj-newby-green-sencha-50-2g",
+    "brand": "NEWBY",
+    "regular_price": "1 249",
+    "promo_price": null
+  },
+  {
+    "id": "469491",
+    "name": "Чай Майский черный отборный (2г x 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/majskij-chernyj-otbornyj-25h2-g",
+    "brand": "МАЙСКИЙ",
+    "regular_price": "64",
+    "promo_price": "54"
+  },
+  {
+    "id": "228378",
+    "name": "Чай черный Принцесса Нури Солнце цейлона листовой, 250г",
+    "link": "https://online.metro-cc.ru/products/250g-chay-chernyy-printsessa-nuri-solntse-tseylona-listovoy",
+    "brand": "ПРИНЦЕССА НУРИ",
+    "regular_price": "329",
+    "promo_price": null
+  },
+  {
+    "id": "239375",
+    "name": "Чай черный Лисма крепкий пакетированный (2г x 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/100shth2g-chay-chyornyy-lisma-krepkiy-paketirovannyy",
+    "brand": "ЛИСМА",
+    "regular_price": "231",
+    "promo_price": "129"
+  },
+  {
+    "id": "211781",
+    "name": "RIOBA Чай черный с мятой (2г x 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/rioba-chay-chernyy-s-myatoy-2g-x-25",
+    "brand": "RIOBA",
+    "regular_price": "94",
+    "promo_price": null
+  },
+  {
+    "id": "239510",
+    "name": "Чай черный Akbar чабрец пакетированный (1.5г x 100шт), 150г",
+    "link": "https://online.metro-cc.ru/products/100shth15g-chay-chyornyy-akbar-chabrets-paketirovannyy",
+    "brand": "AKBAR",
+    "regular_price": "329",
+    "promo_price": "219"
+  },
+  {
+    "id": "346676",
+    "name": "aro Чай черный индийский (1.8г х 100шт), 180г",
+    "link": "https://online.metro-cc.ru/products/aro-chernyj-indijskij-100x18g",
+    "brand": "ARO",
+    "regular_price": "128",
+    "promo_price": null
+  },
+  {
+    "id": "469181",
+    "name": "Чай Лисма черный крепкий (2г х 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/lisma-chernyj-krepkij-25h2g",
+    "brand": "ЛИСМА",
+    "regular_price": "52",
+    "promo_price": "42"
+  },
+  {
+    "id": "288504",
+    "name": "Чай Newby English Breakfast черный (2г x 50шт), 100г",
+    "link": "https://online.metro-cc.ru/products/chernyj-newby-english-breakfast-50-2g",
+    "brand": "NEWBY",
+    "regular_price": "1 299",
+    "promo_price": null
+  },
+  {
+    "id": "288495",
+    "name": "Чай Newby Jasmine Blossom зеленый (2г x 50шт), 100г",
+    "link": "https://online.metro-cc.ru/products/newby-zelenyj-jasmine-blossom-50-2g",
+    "brand": "NEWBY",
+    "regular_price": "1 249",
+    "promo_price": null
+  },
+  {
+    "id": "208708",
+    "name": "Чай Азерчай черный байховый с бергамотом (2г x 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/25h2g-chay-azerchay-chyornyy-bayhovyy-s-bergamotom-paket",
+    "brand": "АЗЕРЧАЙ",
+    "regular_price": "127",
+    "promo_price": "69"
+  },
+  {
+    "id": "136225",
+    "name": "Чай Лисма насыщенный пакетированный (1.8г x 25шт), 45г",
+    "link": "https://online.metro-cc.ru/products/chay-lisma-nasyschennyy-paketirovannyy-25-x-18g",
+    "brand": "ЛИСМА",
+    "regular_price": "55",
+    "promo_price": "42"
+  },
+  {
+    "id": "495165",
+    "name": "RIOBA Чай зеленый с жасмином для заваривания в чайнике (5г х 20шт), 100г",
+    "link": "https://online.metro-cc.ru/products/rioba-zelenyj-s-zhasminom-dlya-zavarivaniya-v-chajnike-20x5g",
+    "brand": "RIOBA",
+    "regular_price": "409",
+    "promo_price": "349"
+  },
+  {
+    "id": "455331",
+    "name": "Чай Akbar Classic Series черный пакетированный (2г х 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/akbar-chernyj-klassicheskij-100h2g",
+    "brand": "AKBAR",
+    "regular_price": "319",
+    "promo_price": "229"
+  },
+  {
+    "id": "244094",
+    "name": "Чай зеленый Ahmad Tea Китайский (1.8г x 100шт), 180г",
+    "link": "https://online.metro-cc.ru/products/100shth18g-chay-zelenyy-ahmad-tea-kitayskiy",
+    "brand": "AHMAD TEA",
+    "regular_price": "299",
+    "promo_price": null
+  },
+  {
+    "id": "204640",
+    "name": "Чай Richard черный апельсин-корица (2г x 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/25h2g-chay-richard-chyornyy-apelsin-koritsa-paketirovan",
+    "brand": "RICHARD",
+    "regular_price": "108",
+    "promo_price": "99"
+  },
+  {
+    "id": "60428",
+    "name": "Чай Green Panda Загадка Тибета черный пуэр крупнолистовой, 100г",
+    "link": "https://online.metro-cc.ru/products/zelenaya-panda-zagadka-tibeta-chernyj-puer-100-g",
+    "brand": "GREEN PANDA",
+    "regular_price": "199",
+    "promo_price": null
+  },
+  {
+    "id": "578788",
+    "name": "Чай Азерчай черный с ароматом бергамота (2г х 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/art_578788",
+    "brand": "АЗЕРЧАЙ",
+    "regular_price": "249",
+    "promo_price": "209"
+  },
+  {
+    "id": "239296",
+    "name": "Чай зеленый Майский Китайский пакетированный (2г x 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/25shth2g-chay-zelyonyy-mayskiy-kitayskiy-paketirovannyy",
+    "brand": "МАЙСКИЙ",
+    "regular_price": "63",
+    "promo_price": "53"
+  },
+  {
+    "id": "544091",
+    "name": "Чай Ahmad Tea черный классический (2г х 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/ahmad-tea-chernyj-klassicheskij-25h2g",
+    "brand": "AHMAD TEA",
+    "regular_price": "108",
+    "promo_price": null
+  },
+  {
+    "id": "407589",
+    "name": "RIOBA Чай черный Мятная свежесть (2г х 20шт), 40г",
+    "link": "https://online.metro-cc.ru/products/rioba-chernyj-myatnaya-svezhest-20x2g",
+    "brand": "RIOBA",
+    "regular_price": "285",
+    "promo_price": "239"
+  },
+  {
+    "id": "125076",
+    "name": "Чай Принцесса Нури отборный черный (2г x 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/25h2g-princessa-nuri-otbornyj",
+    "brand": "ПРИНЦЕССА НУРИ",
+    "regular_price": "69",
+    "promo_price": null
+  },
+  {
+    "id": "468914",
+    "name": "Чай Ahmad Tea Ceylon Tea Orange Pekoe черный листовой, 200г",
+    "link": "https://online.metro-cc.ru/products/ahmad-tea-chernyj-bajhovyj-cejlonskij-orange-pekoe-200g",
+    "brand": "AHMAD TEA",
+    "regular_price": "379",
+    "promo_price": "299"
+  },
+  {
+    "id": "204652",
+    "name": "Чай Майский черный сердце цейлона (1.7г x 25шт), 43г",
+    "link": "https://online.metro-cc.ru/products/25x17g-chay-mayskiy-chernyy-serdtse-tseylona-paketirovannyy",
+    "brand": "МАЙСКИЙ",
+    "regular_price": "59",
+    "promo_price": null
+  },
+  {
+    "id": "468822",
+    "name": "Чай Greenfield Flying Dragon зеленый (2г х 25 пак), 50г",
+    "link": "https://online.metro-cc.ru/products/greenfield-zelenyj-flying-dragon-25x2g",
+    "brand": "GREENFIELD",
+    "regular_price": "109",
+    "promo_price": "89"
+  },
+  {
+    "id": "228383",
+    "name": "Чай черный Tess Sunrise в пакетиках (1.8г x 25шт), 45г",
+    "link": "https://online.metro-cc.ru/products/25shtx18g-chay-chernyy-tess-sunrise-v-paketikah",
+    "brand": "TESS",
+    "regular_price": "110",
+    "promo_price": null
+  },
+  {
+    "id": "468829",
+    "name": "Чай Greenfield Golden Ceylon черный (2г х 25 пак), 50г",
+    "link": "https://online.metro-cc.ru/products/greenfield-chernyj-golden-ceylon-25x2g",
+    "brand": "GREENFIELD",
+    "regular_price": "109",
+    "promo_price": "94"
+  },
+  {
+    "id": "204650",
+    "name": "Чай Майский черный сердце цейлона (1.7г x 100шт), 170г",
+    "link": "https://online.metro-cc.ru/products/100x17g-chay-mayskiy-chernyy-serdtse-tseylona-paketirovannyy",
+    "brand": "МАЙСКИЙ",
+    "regular_price": "221",
+    "promo_price": "169"
+  },
+  {
+    "id": "211770",
+    "name": "RIOBA Чай черный Эрл грей (2г x 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/rioba-chay-chernyy-erl-grey-2g-x-25",
+    "brand": "RIOBA",
+    "regular_price": "115",
+    "promo_price": null
+  },
+  {
+    "id": "456293",
+    "name": "Чай Curtis Isabella Grape черный пирамидки (1.8г x 20шт), 36г",
+    "link": "https://online.metro-cc.ru/products/chernyj-curtis-isabella-grape-piramidki-20x18g",
+    "brand": "CURTIS",
+    "regular_price": "146",
+    "promo_price": "68"
+  },
+  {
+    "id": "125796",
+    "name": "Чай Althaus с жасмином для чайника зеленый (4г x 15шт), 60г",
+    "link": "https://online.metro-cc.ru/products/15h4g-althaus-zel-s-zhasminom-dlya-chajnika",
+    "brand": "ALTHAUS",
+    "regular_price": "859",
+    "promo_price": null
+  },
+  {
+    "id": "633259",
+    "name": "Чай Greenfield Grand Fruit черный (1.5г x 25шт), 38г",
+    "link": "https://online.metro-cc.ru/products/greenfield-chernyj-s-aromatom-granata-rastitelnymi-komponentami-grand-fruit-25-pak",
+    "brand": "GREENFIELD",
+    "regular_price": "109",
+    "promo_price": "89"
+  },
+  {
+    "id": "211782",
+    "name": "RIOBA Чай черный с ароматом лимона (2г x 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/25h2g-chay-rioba-chernyy-s-aromatom-limona",
+    "brand": "RIOBA",
+    "regular_price": "114",
+    "promo_price": null
+  },
+  {
+    "id": "239527",
+    "name": "Чай черный Akbar чабрец пакетированный (1.5г x 25шт), 38г",
+    "link": "https://online.metro-cc.ru/products/25shth15g-chay-chyornyy-akbar-chabrets-paketirovannyy",
+    "brand": "AKBAR",
+    "regular_price": "79",
+    "promo_price": "59"
+  },
+  {
+    "id": "60160",
+    "name": "Чай Green Panda Нефритовый сад зеленый сенча крупнолистовой, 100г",
+    "link": "https://online.metro-cc.ru/products/kitajskij-zelenyj-nefritovyj-sad-green-panda-100g",
+    "brand": "GREEN PANDA",
+    "regular_price": "273",
+    "promo_price": null
+  },
+  {
+    "id": "626078",
+    "name": "Чай Tess Thyme черный с чабрецом и цедрой лимона (1.5г x 100шт), 150г",
+    "link": "https://online.metro-cc.ru/products/tess-chernyj-s-chabrecom-cedroj-limona-thyme-100-15g",
+    "brand": "TESS",
+    "regular_price": "349",
+    "promo_price": "249"
+  },
+  {
+    "id": "122827",
+    "name": "Чай Tess Pleasure черный с шиповником и яблоком (1.5г x 25шт), 38г",
+    "link": "https://online.metro-cc.ru/products/25h15g-tess-pleasure-paketirovannyj",
+    "brand": "TESS",
+    "regular_price": "109",
+    "promo_price": null
+  },
+  {
+    "id": "270368",
+    "name": "Чай Ahmad Tea Jasmine Green Tea зеленый байховый мелкий с жасмином (2г х 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/ahmad-tea-zelenyj-bajhovyj-melkij-s-zhasminom-jasmine-green-tea-100-pak",
+    "brand": "AHMAD TEA",
+    "regular_price": "509",
+    "promo_price": null
+  },
+  {
+    "id": "611964",
+    "name": "Чай Althaus Royal Earl Grey ароматизированный (1.75г х 20шт), 35г",
+    "link": "https://online.metro-cc.ru/products/althaus-royal-earl-grey-v-paketikah-20-175g",
+    "brand": "ALTHAUS",
+    "regular_price": "459",
+    "promo_price": null
+  },
+  {
+    "id": "632944",
+    "name": "Чай Greenfield Royal Earl Grey с бергамотом черный (2г x 20шт), 40г",
+    "link": "https://online.metro-cc.ru/products/greenfield-chernyj-s-bergamotom-royal-earl-grey-v-sashe-20-piramidok",
+    "brand": "GREENFIELD",
+    "regular_price": "165",
+    "promo_price": null
+  },
+  {
+    "id": "623062",
+    "name": "Чай Althaus Royal Sencha Senpai зеленый (1.75г x 20шт), 35г",
+    "link": "https://online.metro-cc.ru/products/althaus-royal-sencha-senpai-zelenyj-v-paketikah-20-175g",
+    "brand": "ALTHAUS",
+    "regular_price": "459",
+    "promo_price": null
+  },
+  {
+    "id": "241450",
+    "name": "Чай черный Newby Имбирь пакетированный (2г x 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/chay-chernyy-newby-imbir-paketirovannyy-2g-x-25sht-50g",
+    "brand": "NEWBY",
+    "regular_price": "979",
+    "promo_price": null
+  },
+  {
+    "id": "494556",
+    "name": "Чай Принцесса Нури Высокогорный черный (2г х 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/princessa-nuri-chernyj-vysokogornyj-100x2g",
+    "brand": "ПРИНЦЕССА НУРИ",
+    "regular_price": "229",
+    "promo_price": null
+  },
+  {
+    "id": "239303",
+    "name": "Чай зеленый Richard Digestive пакетированный (1.5г x 20шт), 30г",
+    "link": "https://online.metro-cc.ru/products/20shth15g-chay-zelyonyy-richard-digestive-paketirovannyy",
+    "brand": "RICHARD",
+    "regular_price": "116",
+    "promo_price": "99"
+  },
+  {
+    "id": "592282",
+    "name": "Чай Greenfield Rich Ceylon черный (2г x 20шт), 40г",
+    "link": "https://online.metro-cc.ru/products/art_592282",
+    "brand": "GREENFIELD",
+    "regular_price": "172",
+    "promo_price": null
+  },
+  {
+    "id": "240184",
+    "name": "Чай черный Basilur Винтажные цветы Цитрусовое наслаждение листовой, 75г",
+    "link": "https://online.metro-cc.ru/products/chay-chernyy-basilur-vintazhnye-tsvety-tsitrusovoe-naslazhdenie-listovoy-75g",
+    "brand": "BASILUR",
+    "regular_price": "299",
+    "promo_price": "199"
+  },
+  {
+    "id": "239369",
+    "name": "Чай черный Curtis Elegant Earl Grey пакетированный (1.7г x 25шт), 42.5г",
+    "link": "https://online.metro-cc.ru/products/25shth17g-chay-chyornyy-curtis-elegant-earl-grey-paketirovan",
+    "brand": "CURTIS",
+    "regular_price": "99",
+    "promo_price": "79"
+  },
+  {
+    "id": "592281",
+    "name": "Чай Greenfield Sicilian Citrus черный с ароматом красного апельсина (1.8г х 20шт), 36г",
+    "link": "https://online.metro-cc.ru/products/art_592281",
+    "brand": "GREENFIELD",
+    "regular_price": "167",
+    "promo_price": null
+  },
+  {
+    "id": "204642",
+    "name": "Чай Richard Royal Strawberry & Aloe Vera (1.5г x 25шт), 38г",
+    "link": "https://online.metro-cc.ru/products/25h15g-chay-richard-zelenyy-klubnika-aloe-paketirovannyy",
+    "brand": "RICHARD",
+    "regular_price": "108",
+    "promo_price": "99"
+  },
+  {
+    "id": "239367",
+    "name": "Чай черный Curtis Perfect Brunch пакетированный (1.7г x 25шт), 42.5г",
+    "link": "https://online.metro-cc.ru/products/25shth17g-chay-chyornyy-curtis-perfect-brunch-paketirovannyy",
+    "brand": "CURTIS",
+    "regular_price": "99",
+    "promo_price": "79"
+  },
+  {
+    "id": "207128",
+    "name": "Чай Akbar Mountain Fresh черный пакетированный (2г x 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/25h2g-chay-akbar-mountain-fresh-chyornyy-paketirovannyy",
+    "brand": "AKBAR",
+    "regular_price": "94",
+    "promo_price": "59"
+  },
+  {
+    "id": "239217",
+    "name": "Чай зеленый Niktea Жасмин Эмеральд пакетированный (2г x 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/25shth2g-chay-zelenyy-niktea-zhasmin-emerald-paketirovannyy",
+    "brand": "NIKTEA",
+    "regular_price": "139",
+    "promo_price": null
+  },
+  {
+    "id": "125075",
+    "name": "Чай Принцесса Нури высокогорный черный (2г x 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/25h2g-princessa-nuri-vysokogornyj",
+    "brand": "ПРИНЦЕССА НУРИ",
+    "regular_price": "67",
+    "promo_price": null
+  },
+  {
+    "id": "121240",
+    "name": "Чай Curtis Delicate Black черный мелколистовой (1.7г х 100шт), 170г",
+    "link": "https://online.metro-cc.ru/products/100h17g-curtis-delicate-black",
+    "brand": "CURTIS",
+    "regular_price": "297",
+    "promo_price": "249"
+  },
+  {
+    "id": "204643",
+    "name": "Чай Richard Royal Blackcurrant & Golden Apple (1.7г x 25шт), 43г",
+    "link": "https://online.metro-cc.ru/products/25h17g-chay-richard-smorodina-yabloko-paketirovannyy",
+    "brand": "RICHARD",
+    "regular_price": "108",
+    "promo_price": "99"
+  },
+  {
+    "id": "211783",
+    "name": "RIOBA Чай черный цветущий сад (2г x 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/rioba-chay-chernyy-tsvetuschiy-sad-2g-x-25",
+    "brand": "RIOBA",
+    "regular_price": "123",
+    "promo_price": null
+  },
+  {
+    "id": "469489",
+    "name": "Чай Принцесса Ява Традиционный зеленый (2г х 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/princessa-yava-zelenyj-25h2g",
+    "brand": "ПРИНЦЕССА ЯВА",
+    "regular_price": "67",
+    "promo_price": null
+  },
+  {
+    "id": "495168",
+    "name": "RIOBA Чай черный для заваривания в чайнике Эрл Грей (5г х 20шт), 100г",
+    "link": "https://online.metro-cc.ru/products/rioba-chernyj-dlya-zavarivaniya-v-chajnike-erl-grej-20x5g",
+    "brand": "RIOBA",
+    "regular_price": "409",
+    "promo_price": "349"
+  },
+  {
+    "id": "239507",
+    "name": "Чай зеленый Akbar мелисса-вербена пакетированный (2г x 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/25shth2g-chay-zelyonyy-akbar-melissaverbena-paketirovannyy",
+    "brand": "AKBAR",
+    "regular_price": "79",
+    "promo_price": "59"
+  },
+  {
+    "id": "147695",
+    "name": "Чай Greenfield Kenyan Sunrise черный байховый (2г х 25 пак), 50г",
+    "link": "https://online.metro-cc.ru/products/greenfield-chernyj-kenyan-sunrise-25x2g",
+    "brand": "GREENFIELD",
+    "regular_price": "109",
+    "promo_price": "89"
+  },
+  {
+    "id": "239376",
+    "name": "Чай черный Майский Лесные ягоды пакетированный (1.5г x 25шт), 37.5г",
+    "link": "https://online.metro-cc.ru/products/25shth15g-chay-chyornyy-mayskiy-lesnye-yagody-paketirovannyy",
+    "brand": "МАЙСКИЙ",
+    "regular_price": "63",
+    "promo_price": "53"
+  },
+  {
+    "id": "239303",
+    "name": "Чай зеленый Richard Digestive пакетированный (1.5г x 20шт), 30г",
+    "link": "https://online.metro-cc.ru/products/20shth15g-chay-zelyonyy-richard-digestive-paketirovannyy",
+    "brand": "RICHARD",
+    "regular_price": "116",
+    "promo_price": "99"
+  },
+  {
+    "id": "239526",
+    "name": "Чай черный Akbar Лесные ягоды пакетированный (1.5г x 25шт), 38г",
+    "link": "https://online.metro-cc.ru/products/25shth15g-chay-chyornyy-akbar-lesnye-yagody-paketirovannyy",
+    "brand": "AKBAR",
+    "regular_price": "84",
+    "promo_price": "59"
+  },
+  {
+    "id": "270090",
+    "name": "Чай Ahmad Tea Green Tea зеленый (2г х 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/ahmad-tea-zelenyj-green-tea-100-2g",
+    "brand": "AHMAD TEA",
+    "regular_price": "509",
+    "promo_price": null
+  },
+  {
+    "id": "121240",
+    "name": "Чай Curtis Delicate Black черный мелколистовой (1.7г х 100шт), 170г",
+    "link": "https://online.metro-cc.ru/products/100h17g-curtis-delicate-black",
+    "brand": "CURTIS",
+    "regular_price": "297",
+    "promo_price": "249"
+  },
+  {
+    "id": "633256",
+    "name": "Чай Greenfield English Edition цейлонский черный (2г x 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/greenfield-chernyj-cejlonskij-english-edition-100x2g",
+    "brand": "GREENFIELD",
+    "regular_price": "359",
+    "promo_price": null
+  },
+  {
+    "id": "244035",
+    "name": "Чай черный Ahmad Tea Клубника со сливками (1.5г x 25шт), 37.5г",
+    "link": "https://online.metro-cc.ru/products/25shth15g-chay-chernyy-ahmad-tea-klubnika-so-slivkami",
+    "brand": "AHMAD TEA",
+    "regular_price": "119",
+    "promo_price": "109"
+  },
+  {
+    "id": "539426",
+    "name": "Чай Curtis Sunny Lemon черный ароматизированный (1.7г х 20шт), 34г",
+    "link": "https://online.metro-cc.ru/products/curtis-sunny-lemon-chernyj-20-17g",
+    "brand": "CURTIS",
+    "regular_price": "146",
+    "promo_price": "68"
+  },
+  {
+    "id": "228380",
+    "name": "Чай черный Гита индийский в пакетиках (2г x 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/25shth2g-chay-chernyy-gita-indiyskiy-v-paketikah",
+    "brand": "ГИТА",
+    "regular_price": "38",
+    "promo_price": null
+  },
+  {
+    "id": "241464",
+    "name": "Чай черный Richman Organic цейлонский среднелистовой (2г x 20шт), 40г",
+    "link": "https://online.metro-cc.ru/products/chay-chernyy-richman-organic-tseylonskiy-srednelistovoy-2g-x-20sht-40g",
+    "brand": "RICHMAN",
+    "regular_price": "259",
+    "promo_price": null
+  },
+  {
+    "id": "211767",
+    "name": "RIOBA Чай ассорти пакетированный 9 вкусов, 173г",
+    "link": "https://online.metro-cc.ru/products/173g-chay-rioba-assorti-paketirovannyy-9-vkusov",
+    "brand": "RIOBA",
+    "regular_price": "479",
+    "promo_price": null
+  },
+  {
+    "id": "239505",
+    "name": "Чай зеленый Akbar малиновая роза пакетированный (1.5г x 25шт), 38г",
+    "link": "https://online.metro-cc.ru/products/25shth15g-chay-zelyonyy-akbar-malinovaya-roza-paketirovannyy",
+    "brand": "AKBAR",
+    "regular_price": "79",
+    "promo_price": "59"
+  },
+  {
+    "id": "239374",
+    "name": "Чай черный Curtis Tender Moments пакетированный (1.5г x 100шт), 150г",
+    "link": "https://online.metro-cc.ru/products/100shth15g-chay-chyornyy-curtis-tender-moments-paketirovannyy",
+    "brand": "CURTIS",
+    "regular_price": "309",
+    "promo_price": "259"
+  },
+  {
+    "id": "228381",
+    "name": "Чай черный Принцесса Канди цейлон в пакетиках (2г x 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/25shth2g-chay-chernyy-printsessa-kandi-tseylon-v-paketikah",
+    "brand": "ПРИНЦЕССА КАНДИ",
+    "regular_price": "61",
+    "promo_price": null
+  },
+  {
+    "id": "208515",
+    "name": "Чай Just T черный Sunrise Breakfast (3г x 20шт), 60г",
+    "link": "https://online.metro-cc.ru/products/20h3g-chay-just-t-chyornyy-sunrise-breakfast-pak",
+    "brand": "JUST T",
+    "regular_price": "449",
+    "promo_price": null
+  },
+  {
+    "id": "244036",
+    "name": "Чай черный Ahmad Tea Магия манго (1.5г x 25шт), 37.5г",
+    "link": "https://online.metro-cc.ru/products/25shth15g-chay-chernyy-ahmad-tea-magiya-mango",
+    "brand": "AHMAD TEA",
+    "regular_price": "119",
+    "promo_price": "109"
+  },
+  {
+    "id": "239384",
+    "name": "Чай черный Niktea Английский завтрак пакетированный (2г x 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/25shth2g-chay-chernyy-niktea-angliyskiy-zavtrak-paketirovannyy",
+    "brand": "NIKTEA",
+    "regular_price": "163",
+    "promo_price": null
+  },
+  {
+    "id": "239218",
+    "name": "Чай зеленый Niktea Красная поляна пакетированный (1.75г x 25шт), 44г",
+    "link": "https://online.metro-cc.ru/products/25shth175g-chay-zelenyy-niktea-krasnaya-polyana-paketirovannyy",
+    "brand": "NIKTEA",
+    "regular_price": "139",
+    "promo_price": null
+  },
+  {
+    "id": "148465",
+    "name": "Чай Принцесса Нури высокогорный черный (2г x 50 шт), 100г",
+    "link": "https://online.metro-cc.ru/products/chernyj-princessa-nuri-vysokogornyj-50h2g",
+    "brand": "ПРИНЦЕССА НУРИ",
+    "regular_price": "119",
+    "promo_price": null
+  },
+  {
+    "id": "228384",
+    "name": "Чай черный Greenfield Redberry Crumble пирамидки (1.8г x 20шт), 36г",
+    "link": "https://online.metro-cc.ru/products/20shtx18g-chay-chernyy-greenfield-redberry-crumble-piramidki",
+    "brand": "GREENFIELD",
+    "regular_price": "161",
+    "promo_price": null
+  },
+  {
+    "id": "539335",
+    "name": "Чай Richard Royal Ceylon черный байховый (2г х 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/richard-chernyj-bajhovyj-royl-ceylon-v-sashe-25-pak",
+    "brand": "RICHARD",
+    "regular_price": "108",
+    "promo_price": "99"
+  },
+  {
+    "id": "24879",
+    "name": "Чай Ahmad Tea English Tea No1 черный (2г x 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/ahmad-tea-chernyj-englishtea-1-100-pak",
+    "brand": "AHMAD TEA",
+    "regular_price": "539",
+    "promo_price": null
+  },
+  {
+    "id": "244037",
+    "name": "Чай черный Ahmad Tea Малиновое лакомство (1.5г x 25шт), 37.5г",
+    "link": "https://online.metro-cc.ru/products/25shth15g-chay-chernyy-ahmad-tea-malinovoe-lakomstvo",
+    "brand": "AHMAD TEA",
+    "regular_price": "119",
+    "promo_price": "109"
+  },
+  {
+    "id": "208497",
+    "name": "Чай Just T белый Darling Peach (2г x 20шт), 40г",
+    "link": "https://online.metro-cc.ru/products/20h2g-chay-just-t-belyy-darling-peach-paketirovannyy",
+    "brand": "JUST T",
+    "regular_price": "449",
+    "promo_price": null
+  },
+  {
+    "id": "644132",
+    "name": "Чай Richard Royal English Breakfast черный (2г х 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/chernyj-richard-royal-english-breakfast-25-paketikov",
+    "brand": "RICHARD",
+    "regular_price": "108",
+    "promo_price": "99"
+  },
+  {
+    "id": "644132",
+    "name": "Чай Richard Royal English Breakfast черный (2г х 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/chernyj-richard-royal-english-breakfast-25-paketikov",
+    "brand": "RICHARD",
+    "regular_price": "108",
+    "promo_price": "99"
+  },
+  {
+    "id": "239373",
+    "name": "Чай черный Curtis Elegant Earl Grey пакетированный (1.7г x 100шт), 170г",
+    "link": "https://online.metro-cc.ru/products/100shth17g-chay-chyornyy-curtis-elegant-earl-grey-paketirovan",
+    "brand": "CURTIS",
+    "regular_price": "294",
+    "promo_price": "249"
+  },
+  {
+    "id": "244097",
+    "name": "Чай зеленый Ahmad Tea Без кофеина (1.5г x 20шт), 30г",
+    "link": "https://online.metro-cc.ru/products/20shth15g-chay-zelenyy-ahmad-tea-bez-kofeina",
+    "brand": "AHMAD TEA",
+    "regular_price": "139",
+    "promo_price": "119"
+  },
+  {
+    "id": "468917",
+    "name": "Чай Ahmad Tea Green Tea зеленый (2г х 25 пак), 50г",
+    "link": "https://online.metro-cc.ru/products/ahmad-tea-zelenyj-25h2-g",
+    "brand": "AHMAD TEA",
+    "regular_price": "147",
+    "promo_price": null
+  },
+  {
+    "id": "623063",
+    "name": "Чай Althaus Deli Packs English Breakfast черный (1.75г x 20шт), 35г",
+    "link": "https://online.metro-cc.ru/products/althaus-deli-packs-english-breakfast-20-p-h-175-g",
+    "brand": "ALTHAUS",
+    "regular_price": "459",
+    "promo_price": null
+  },
+  {
+    "id": "136224",
+    "name": "Чай Richard Royal Goji & Wild Strawberry ароматизированный (1.7г х 25шт), 42г",
+    "link": "https://online.metro-cc.ru/products/chay-richard-godzhi-i-zemlyanika-paketirovannyy-25-x-17g",
+    "brand": "RICHARD",
+    "regular_price": "108",
+    "promo_price": "99"
+  },
+  {
+    "id": "495166",
+    "name": "RIOBA Чай зеленый байховый для заваривания в чайнике Молочный улун (5г х 20шт), 100г",
+    "link": "https://online.metro-cc.ru/products/rioba-zelenyj-bajhovyj-dlya-zavarivaniya-v-chajnike-molochnyj-ulun-20-5g",
+    "brand": "RIOBA",
+    "regular_price": "419",
+    "promo_price": "349"
+  },
+  {
+    "id": "241466",
+    "name": "Чай черный Richman Organic Бергамот среднелистовой (2г x 20шт), 40г",
+    "link": "https://online.metro-cc.ru/products/chay-chernyy-richman-organic-bergamot-srednelistovoy-2g-x-20sht-40g",
+    "brand": "RICHMAN",
+    "regular_price": "264",
+    "promo_price": null
+  },
+  {
+    "id": "633258",
+    "name": "Чай Greenfield Wildberry rooibos (1.5г x 25шт), 38г",
+    "link": "https://online.metro-cc.ru/products/greenfield-napitok-wildberry-rooibos-s-kusochkami-yagod-zemlyaniki-klyukvy-25-pak",
+    "brand": "GREENFIELD",
+    "regular_price": "109",
+    "promo_price": "89"
+  },
+  {
+    "id": "228384",
+    "name": "Чай черный Greenfield Redberry Crumble пирамидки (1.8г x 20шт), 36г",
+    "link": "https://online.metro-cc.ru/products/20shtx18g-chay-chernyy-greenfield-redberry-crumble-piramidki",
+    "brand": "GREENFIELD",
+    "regular_price": "161",
+    "promo_price": null
+  },
+  {
+    "id": "244037",
+    "name": "Чай черный Ahmad Tea Малиновое лакомство (1.5г x 25шт), 37.5г",
+    "link": "https://online.metro-cc.ru/products/25shth15g-chay-chernyy-ahmad-tea-malinovoe-lakomstvo",
+    "brand": "AHMAD TEA",
+    "regular_price": "119",
+    "promo_price": "109"
+  },
+  {
+    "id": "208497",
+    "name": "Чай Just T белый Darling Peach (2г x 20шт), 40г",
+    "link": "https://online.metro-cc.ru/products/20h2g-chay-just-t-belyy-darling-peach-paketirovannyy",
+    "brand": "JUST T",
+    "regular_price": "449",
+    "promo_price": null
+  },
+  {
+    "id": "662689",
+    "name": "Чай Richard Royal Kenya Black Tea черный (2г х 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/chernyj-richard-royal-kenya-black-tea-100-tea-bags",
+    "brand": "RICHARD",
+    "regular_price": "309",
+    "promo_price": "259"
+  },
+  {
+    "id": "239372",
+    "name": "Чай черный Curtis Perfect Brunch пакетированный (1.7г x 100шт), 170г",
+    "link": "https://online.metro-cc.ru/products/100shth17g-chay-chyornyy-curtis-perfect-brunch-paketirovannyy",
+    "brand": "CURTIS",
+    "regular_price": "286",
+    "promo_price": "259"
+  },
+  {
+    "id": "239366",
+    "name": "Чай черный Richard Royal Kenya пакетированный (2г x 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/25shth2g-chay-chyornyy-richard-royal-kenya-paketirovannyy",
+    "brand": "RICHARD",
+    "regular_price": "108",
+    "promo_price": "99"
+  },
+  {
+    "id": "208490",
+    "name": "Чай Just T зеленый China Green Jewel (2г x 20шт), 40г",
+    "link": "https://online.metro-cc.ru/products/20h2g-chay-just-t-zelenyy-china-green-jewel-pak",
+    "brand": "JUST T",
+    "regular_price": "449",
+    "promo_price": null
+  },
+  {
+    "id": "495160",
+    "name": "RIOBA Чай черный для заваривания в чайнике Английский завтрак (5г х 20шт), 100г",
+    "link": "https://online.metro-cc.ru/products/rioba-chernyj-dlya-zavarivaniya-v-chajnike-anglijskij-zavtrak-20x5g",
+    "brand": "RIOBA",
+    "regular_price": "409",
+    "promo_price": "349"
+  },
+  {
+    "id": "205248",
+    "name": "Чай Richard Tea No1 черный мята-цитрус (2г х 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/25x2g-chay-richard-kings-tea-1-chyornyy-myatatsitrus",
+    "brand": "RICHARD",
+    "regular_price": "108",
+    "promo_price": "99"
+  },
+  {
+    "id": "468913",
+    "name": "Чай Ahmad Tea черный English No1 (2г х 25 пак), 50г",
+    "link": "https://online.metro-cc.ru/products/ahmad-tea-chernyj-english-tea-1-25h2g",
+    "brand": "AHMAD TEA",
+    "regular_price": "155",
+    "promo_price": null
+  },
+  {
+    "id": "561442",
+    "name": "Чай Майский Корона Российской Империи черный (2г х 25 шт), 50г",
+    "link": "https://online.metro-cc.ru/products/chernyj-majskij-korona-rossijskoj-imperii-25x2g",
+    "brand": "МАЙСКИЙ",
+    "regular_price": "64",
+    "promo_price": "54"
+  },
+  {
+    "id": "120415",
+    "name": "Чай Алтайвита Солнечный день травяной, 40г",
+    "link": "https://online.metro-cc.ru/products/40g-altajvita-travyanoj-solnechyj-den",
+    "brand": "АЛТАЙВИТА",
+    "regular_price": "182",
+    "promo_price": "169"
+  },
+  {
+    "id": "120414",
+    "name": "Чай Алтайвита Хохот шамана травяной, 40г",
+    "link": "https://online.metro-cc.ru/products/40g-altajvita-travyanoj-hohot-shamana",
+    "brand": "АЛТАЙВИТА",
+    "regular_price": "182",
+    "promo_price": "169"
+  },
+  {
+    "id": "468912",
+    "name": "Чай Ahmad Tea English Breakfast черный (2г х 25 пак), 50г",
+    "link": "https://online.metro-cc.ru/products/ahmad-tea-chernyj-bajhovyj-melkij-english-breakfast-25-pak",
+    "brand": "AHMAD TEA",
+    "regular_price": "140",
+    "promo_price": null
+  },
+  {
+    "id": "228233",
+    "name": "Чай черный Принцесса Ява сочный лимон в пакетиках (1.5г x 25шт), 38г",
+    "link": "https://online.metro-cc.ru/products/25shth15g-chay-zelenyy-printsessa-yava-sochnyy-limon-v-paketikah",
+    "brand": "ПРИНЦЕССА ЯВА",
+    "regular_price": "72",
+    "promo_price": null
+  },
+  {
+    "id": "208492",
+    "name": "Чай Just T зеленый Unforget Morrocan mint (1г x 20шт), 20г",
+    "link": "https://online.metro-cc.ru/products/20h1g-chay-just-t-zelenyy-unforget-moroccan-mint-pak",
+    "brand": "JUST T",
+    "regular_price": "449",
+    "promo_price": null
+  },
+  {
+    "id": "468916",
+    "name": "Чай Ahmad Tea Earl Grey черный с ароматом бергамота (2г х 25 пак), 50г",
+    "link": "https://online.metro-cc.ru/products/ahmad-tea-chernyj-s-aromatom-bergamota-earl-grey-25-pak",
+    "brand": "AHMAD TEA",
+    "regular_price": "140",
+    "promo_price": null
+  },
+  {
+    "id": "136222",
+    "name": "Чай Richard Royal Tea Collection Набор, 230г",
+    "link": "https://online.metro-cc.ru/products/chay-richard-royal-tea-collection-nabor-230g",
+    "brand": "RICHARD",
+    "regular_price": "779",
+    "promo_price": "519"
+  },
+  {
+    "id": "204644",
+    "name": "Чай Curtis черный Pleasure Time шиповник-яблоко-карамель (1.7г x 25шт), 38г",
+    "link": "https://online.metro-cc.ru/products/25x17g-chay-curtis-chernyy-pleasure-time-shipyablkaramel",
+    "brand": "CURTIS",
+    "regular_price": "99",
+    "promo_price": "79"
+  },
+  {
+    "id": "204647",
+    "name": "Чай Curtis Desserts Tea Collection ассорти (1.95г x 30шт), 59г",
+    "link": "https://online.metro-cc.ru/products/30h195g-chay-curtis-dessert-tea-collection-assorti",
+    "brand": "CURTIS",
+    "regular_price": "309",
+    "promo_price": "229"
+  },
+  {
+    "id": "120417",
+    "name": "Чай Алтайвита Витаминный коктейль травяной, 40г",
+    "link": "https://online.metro-cc.ru/products/40g-altajvita-travyanoj-vitamin-koktejl",
+    "brand": "АЛТАЙВИТА",
+    "regular_price": "182",
+    "promo_price": "169"
+  },
+  {
+    "id": "395514",
+    "name": "Чай Майский Корона Российской Империи черный цейлонский крупнолистовой (2г х 100 шт), 200г",
+    "link": "https://online.metro-cc.ru/products/majskij-chernyj-korona-rossijskoj-imperii-100-pak-395514",
+    "brand": "МАЙСКИЙ",
+    "regular_price": "226",
+    "promo_price": "189"
+  },
+  {
+    "id": "566113",
+    "name": "Чай Tess ассорти из 12 вкусов 60шт, 102г",
+    "link": "https://online.metro-cc.ru/products/tess-assorti-iz-12-vkusov-v-kartonnoj-korobke-v-sashe-60-pak",
+    "brand": "TESS",
+    "regular_price": "609",
+    "promo_price": null
+  },
+  {
+    "id": "468776",
+    "name": "Чай Milford ромашка (1.5г х 20шт), 30г",
+    "link": "https://online.metro-cc.ru/products/milford-travyanoj-romashka-20-15g",
+    "brand": "MILFORD",
+    "regular_price": "107",
+    "promo_price": "99"
+  },
+  {
+    "id": "208518",
+    "name": "Чай Just T черный Baby It's cold outside (1.75г x 20шт), 35г",
+    "link": "https://online.metro-cc.ru/products/20h175g-chay-just-t-chyornyy-baby-its-cold-outside-pak",
+    "brand": "JUST T",
+    "regular_price": "449",
+    "promo_price": null
+  },
+  {
+    "id": "567788",
+    "name": "Чай Ahmad Tea Jasmine Green Tea зеленый с жасмином (2г х 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/ahmad-tea-s-zhasminom-zelenyj-25h2-g",
+    "brand": "AHMAD TEA",
+    "regular_price": "139",
+    "promo_price": null
+  },
+  {
+    "id": "408568",
+    "name": "Чай Hilltop Ожидание ассорти в шкатулке, 150г",
+    "link": "https://online.metro-cc.ru/products/art_408568",
+    "brand": "HILLTOP",
+    "regular_price": "1 719",
+    "promo_price": "1 099"
+  },
+  {
+    "id": "468915",
+    "name": "Чай Ahmad Tea English Tea No.1 черный листовой с ароматом бергамота, 200г",
+    "link": "https://online.metro-cc.ru/products/ahmad-tea-chernyj-listovoj-s-aromatom-bergamota-english-tea-no1-200g",
+    "brand": "AHMAD TEA",
+    "regular_price": "379",
+    "promo_price": "299"
+  },
+  {
+    "id": "120573",
+    "name": "Чай Nature's Own Factory Полезный гречишный, 100г",
+    "link": "https://online.metro-cc.ru/products/napitok-grechishnyj-nature-039s-own-factory-100g",
+    "brand": "NATURE'S OWN FACTORY",
+    "regular_price": "619",
+    "promo_price": "519"
+  },
+  {
+    "id": "148576",
+    "name": "Чай Greenfield Rich Camomile (1.5г х 25шт), 38г",
+    "link": "https://online.metro-cc.ru/products/greenfield-travyanoj-rich-camomile-25x15g",
+    "brand": "GREENFIELD",
+    "regular_price": "109",
+    "promo_price": "89"
+  },
+  {
+    "id": "505404",
+    "name": "Чай Curtis Isabella Grape черный пирамидки (1.8г х 20 пак), 36г x 2 шт",
+    "link": "https://online.metro-cc.ru/products/chernyj-curtis-isabella-grape-piramidki-20x18g-505404",
+    "brand": "CURTIS",
+    "regular_price": "278",
+    "promo_price": "137"
+  },
+  {
+    "id": "31883",
+    "name": "Чай Richard Royal Ceylon черный байховый (2г х 100пак), 200г x 6 шт",
+    "link": "https://online.metro-cc.ru/products/richard-royl-ceylon-chernyj-bajhovyj-100-2g",
+    "brand": "RICHARD",
+    "regular_price": "1 554",
+    "promo_price": null
+  },
+  {
+    "id": "71827",
+    "name": "Чай Принцесса Нури высокогорный черный (50 пакетиков x 2г), 100г x 3 шт",
+    "link": "https://online.metro-cc.ru/products/chernyj-princessa-nuri-vysokogornyj-50h2g-71827",
+    "brand": "ПРИНЦЕССА НУРИ",
+    "regular_price": "357",
+    "promo_price": null
+  },
+  {
+    "id": "31881",
+    "name": "Чай Richard Royal Ceylon черный байховый (2г х 25 пак), 50г x 12 шт",
+    "link": "https://online.metro-cc.ru/products/richard-royal-ceylon-chernyj-25-2g",
+    "brand": "RICHARD",
+    "regular_price": "1 198",
+    "promo_price": null
+  },
+  {
+    "id": "288622",
+    "name": "Чай Greenfield Summer Bouquet 25 пакетиков (2г x 25 пак), 50г х 2 шт",
+    "link": "https://online.metro-cc.ru/products/greenfield-summer-bouquet-25h2g",
+    "brand": "GREENFIELD",
+    "regular_price": "218",
+    "promo_price": null
+  },
+  {
+    "id": "468775",
+    "name": "Чай Milford шиповник (2г х 20 пак), 40г",
+    "link": "https://online.metro-cc.ru/products/art_468775",
+    "brand": "MILFORD",
+    "regular_price": "107",
+    "promo_price": "99"
+  },
+  {
+    "id": "31882",
+    "name": "Чай Richard Lord Grey черный байховый в саше (2г х 25 пак), 50г x 12 шт",
+    "link": "https://online.metro-cc.ru/products/richard-lord-grey-chernyj-bajhovyj-25-2g",
+    "brand": "RICHARD",
+    "regular_price": "1 198",
+    "promo_price": null
+  },
+  {
+    "id": "468777",
+    "name": "Чай Milford Peppermint мята перечная (1.5г х 20шт), 30г",
+    "link": "https://online.metro-cc.ru/products/milford-travyanoj-myata-perechnaya-20x15g",
+    "brand": "MILFORD",
+    "regular_price": "107",
+    "promo_price": "89"
+  },
+  {
+    "id": "225809",
+    "name": "Чай Herbarus травяной Спокойствие-баланс (1.8г х 24шт), 43г",
+    "link": "https://online.metro-cc.ru/products/24shth18g-chaynyy-napitok-herbarus-spokoystviebalans",
+    "brand": "HERBARUS",
+    "regular_price": "279",
+    "promo_price": null
+  },
+  {
+    "id": "239304",
+    "name": "Чай Curtis Colour набор пакетированный (1.5г x 54шт), 81г",
+    "link": "https://online.metro-cc.ru/products/54shth15g-chay-curtis-colour-paketirovannyy-nabor",
+    "brand": "CURTIS",
+    "regular_price": "409",
+    "promo_price": "309"
+  },
+  {
+    "id": "138758",
+    "name": "Чай Hilltop Цейлонское утро конверт Праздничный вечер черный крупнолистовой, 100г",
+    "link": "https://online.metro-cc.ru/products/100g-chay-hilltop-tseylonskoe-utro-konvert",
+    "brand": "HILLTOP",
+    "regular_price": "247",
+    "promo_price": "199"
+  },
+  {
+    "id": "244159",
+    "name": "Чай травяной Ahmad Tea Гибискус-персик-малина (1.8г x 20шт), 36г",
+    "link": "https://online.metro-cc.ru/products/20shth18g-chay-travyanoy-ahmad-tea-gibiskuspersikmalina",
+    "brand": "AHMAD TEA",
+    "regular_price": "139",
+    "promo_price": "119"
+  },
+  {
+    "id": "239294",
+    "name": "Чай Maitre de The Пионы ассорти пакетированный (2г x 60шт), 120г",
+    "link": "https://online.metro-cc.ru/products/60shth2g-chay-maitre-piony-assorti-paketirovannyy",
+    "brand": "MAITRE DE THE",
+    "regular_price": "369",
+    "promo_price": "269"
+  },
+  {
+    "id": "205421",
+    "name": "Напиток Nature's Own Factory гречишный чайный груша-ваниль, 75г",
+    "link": "https://online.metro-cc.ru/products/75g-grechishnyy-chaynyy-napitok-natures-factory-grushavanil",
+    "brand": "NATURE'S OWN FACTORY",
+    "regular_price": "479",
+    "promo_price": "429"
+  },
+  {
+    "id": "120570",
+    "name": "Напиток чайный Nature's Own Factory Полезный гречишный с манго, 100г",
+    "link": "https://online.metro-cc.ru/products/napitok-grechishnyj-s-mango-nature-039s-own-factory-100g",
+    "brand": "NATURE'S OWN FACTORY",
+    "regular_price": "639",
+    "promo_price": "539"
+  },
+  {
+    "id": "120572",
+    "name": "Напиток чайный Nature's Own Factory Полезный гречишный с кокосом, 100г",
+    "link": "https://online.metro-cc.ru/products/napitok-grechishnyj-s-kokosom-nature-039s-own-factory-100g",
+    "brand": "NATURE'S OWN FACTORY",
+    "regular_price": "589",
+    "promo_price": "499"
+  },
+  {
+    "id": "205420",
+    "name": "Напиток Nature's Own Factory гречишный чайный банан-клубника, 75г",
+    "link": "https://online.metro-cc.ru/products/75g-grechishnyy-chaynyy-napitok-natures-factory-bananklubnika",
+    "brand": "NATURE'S OWN FACTORY",
+    "regular_price": "479",
+    "promo_price": "429"
+  },
+  {
+    "id": "237808",
+    "name": "Фильтр-пакет Yantra для заваривания листового чая размер А 80шт, 31г",
+    "link": "https://online.metro-cc.ru/products/filtr-paket-yantra-dlya-zavarivaniya-listovogo-chaya-razmer-a-80sht",
+    "brand": "YANTRA",
+    "regular_price": "267",
+    "promo_price": null
+  },
+  {
+    "id": "533427",
+    "name": "Фильтр-пакеты Basilur Для заваривания листового чая 80шт, 32г",
+    "link": "https://online.metro-cc.ru/products/filtr-pakety-basilur-dlya-zavarivaniya-listovogo-chaya-80-sht",
+    "brand": "BASILUR",
+    "regular_price": "329",
+    "promo_price": null
+  },
+  {
+    "id": "207164",
+    "name": "Сокочай Befruitbe зеленый ананас-клубника-мята, 130г",
+    "link": "https://online.metro-cc.ru/products/130g-sokochay-befruitbe-zelyonyy-ananasklubnikamyata",
+    "brand": "BEFRUITBE",
+    "regular_price": "699",
+    "promo_price": null
+  },
+  {
+    "id": "122506",
+    "name": "Напиток чайный Sonnentor При плохой погоде травяной, 50г",
+    "link": "https://online.metro-cc.ru/products/travyanoj-pri-plohoj-pogode-sonnentor-50-g",
+    "brand": "SONNENTOR",
+    "regular_price": "499",
+    "promo_price": null
+  },
+  {
+    "id": "208795",
+    "name": "Напиток Milford чайный 12 трав (2.25г x 20шт), 45г",
+    "link": "https://online.metro-cc.ru/products/20h225g-chaynyy-napitok-milford-12-trav",
+    "brand": "MILFORD",
+    "regular_price": "119",
+    "promo_price": null
+  },
+  {
+    "id": "121630",
+    "name": "Напиток чайный Konigin Herbarium Ромашка (1.5г х 20шт), 30г",
+    "link": "https://online.metro-cc.ru/products/20h15g-nap-konigin-herbarium-romashka",
+    "brand": "KONIGIN HERBARIUM",
+    "regular_price": "105",
+    "promo_price": null
+  },
+  {
+    "id": "211513",
+    "name": "RIOBA Напиток чайный ройбуш ягодный (1.5г x 25шт), 37г",
+    "link": "https://online.metro-cc.ru/products/rioba-napitok-chaynyy-roybush-yagodnyy-15g-x-25",
+    "brand": "RIOBA",
+    "regular_price": "121",
+    "promo_price": null
+  },
+  {
+    "id": "122504",
+    "name": "Напиток чайный Sonnentor Цветки липы, травяной, 35г",
+    "link": "https://online.metro-cc.ru/products/napitok-sonnentor-cvetki-lipy-travyanoj-35-g",
+    "brand": "SONNENTOR",
+    "regular_price": "679",
+    "promo_price": null
+  },
+  {
+    "id": "211771",
+    "name": "RIOBA Напиток чайный каркаде (1.8г x 25шт), 45г",
+    "link": "https://online.metro-cc.ru/products/25x18g-chaynyy-napitok-rioba-karkade",
+    "brand": "RIOBA",
+    "regular_price": "114",
+    "promo_price": null
+  },
+  {
+    "id": "588355",
+    "name": "Набор чая Ahmad Tea Four Season's Tea Collection ассорти 15 вкусов (2г х 90шт), 180г",
+    "link": "https://online.metro-cc.ru/products/ahmad-tea-nabor-assorti-laquofour-season-rsquos-raquo-15-vkusov-v-kartonnoj-korobke-90-sashe",
+    "brand": "AHMAD TEA",
+    "regular_price": "849",
+    "promo_price": null
+  },
+  {
+    "id": "121656",
+    "name": "Напиток чайный Konigin Herbarium Здоровый сон (1.5г х 20шт), 30г",
+    "link": "https://online.metro-cc.ru/products/20h15g-nap-konigin-herbarium-zdorovyj-son",
+    "brand": "KONIGIN HERBARIUM",
+    "regular_price": "105",
+    "promo_price": null
+  },
+  {
+    "id": "420141",
+    "name": "Напиток чайный Master Team Каркаде, 250г",
+    "link": "https://online.metro-cc.ru/products/chajnyj-napitok-master-team-karkade-sudanskaya-roza-250g",
+    "brand": "MASTER TEAM",
+    "regular_price": "285",
+    "promo_price": null
+  },
+  {
+    "id": "121657",
+    "name": "Напиток чайный Konigin Herbarium Чабрец и душица (1.5г х 20шт), 30г",
+    "link": "https://online.metro-cc.ru/products/20h15g-nap-konigin-herbarium-chabrec-dushica",
+    "brand": "KONIGIN HERBARIUM",
+    "regular_price": "105",
+    "promo_price": null
+  },
+  {
+    "id": "121629",
+    "name": "Напиток чайный Konigin Herbarium Приятная легкость (1.5г х 20шт), 30г",
+    "link": "https://online.metro-cc.ru/products/20h15g-nap-konigin-herbarium-priyatnaya-lyogkost",
+    "brand": "KONIGIN HERBARIUM",
+    "regular_price": "105",
+    "promo_price": null
+  },
+  {
+    "id": "211769",
+    "name": "RIOBA Напиток чайный ромашковый (1.2г x 25шт), 30г",
+    "link": "https://online.metro-cc.ru/products/rioba-napitok-chaynyy-romashkovyy-12g-x-25",
+    "brand": "RIOBA",
+    "regular_price": "103",
+    "promo_price": null
+  },
+  {
+    "id": "240186",
+    "name": "Напиток чайный Basilur Фруктовое вдохновение Том IV ассорти (2г x 20шт), 40г",
+    "link": "https://online.metro-cc.ru/products/napitok-chaynyy-basilur-fruktovoe-vdohnovenie-tom-iv-assorti-2g-x-20sht-40g",
+    "brand": "BASILUR",
+    "regular_price": "299",
+    "promo_price": "199"
+  },
+  {
+    "id": "237811",
+    "name": "Фильтр-пакет Yantra для заваривания листового чая размер M 80шт, 42г",
+    "link": "https://online.metro-cc.ru/products/filtr-paket-yantra-dlya-zavarivaniya-listovogo-chaya-razmer-m-80sht",
+    "brand": "YANTRA",
+    "regular_price": "349",
+    "promo_price": null
+  },
+  {
+    "id": "122505",
+    "name": "Напиток чайный Sonnentor Время ложиться спать травяной, 50г",
+    "link": "https://online.metro-cc.ru/products/travyanoj-vremya-lozhitsya-spat-sonnentor-50-g",
+    "brand": "SONNENTOR",
+    "regular_price": "499",
+    "promo_price": null
+  },
+  {
+    "id": "122507",
+    "name": "Напиток чайный Sonnentor Радуга хорошего настроения травяной, 50г",
+    "link": "https://online.metro-cc.ru/products/travyanoj-raduga-horoshego-nastroeniya-sonnentor-50-g",
+    "brand": "SONNENTOR",
+    "regular_price": "499",
+    "promo_price": null
+  },
+  {
+    "id": "226675",
+    "name": "Чайный напиток Herbarus Заряд витаминов (1.8г x 24шт), 43.2г",
+    "link": "https://online.metro-cc.ru/products/24h18g-chaynyy-napitok-herbarus-zaryad-vitaminov",
+    "brand": "HERBARUS",
+    "regular_price": "279",
+    "promo_price": null
+  },
+  {
+    "id": "124922",
+    "name": "Чайное Ассорти Ahmad Tea Collection 8 вкусов 40шт, 71г",
+    "link": "https://online.metro-cc.ru/products/40pak-chaj-ahmad-tea-kollekciya-8-vkusov",
+    "brand": "AHMAD TEA",
+    "regular_price": "409",
+    "promo_price": "269"
+  },
+  {
+    "id": "225803",
+    "name": "Чайный напиток Herbarus Ассорти (1.8г х 24шт), 43г",
+    "link": "https://online.metro-cc.ru/products/24shth18g-chaynyy-napitok-herbarus-assorti",
+    "brand": "HERBARUS",
+    "regular_price": "279",
+    "promo_price": null
+  },
+  {
+    "id": "239377",
+    "name": "Напиток чайный Richard Immune пакетированный (1.5г x 20шт), 30г",
+    "link": "https://online.metro-cc.ru/products/20shth15g-chaynyy-nap-richard-immune-paketirovannyy",
+    "brand": "RICHARD",
+    "regular_price": "116",
+    "promo_price": "99"
+  },
+  {
+    "id": "121631",
+    "name": "Напиток чайный Konigin Herbarium Теплый шарф (1.5г х 20шт), 30г",
+    "link": "https://online.metro-cc.ru/products/20h15g-nap-konigin-herbarium-tyoplyj-sharf",
+    "brand": "KONIGIN HERBARIUM",
+    "regular_price": "105",
+    "promo_price": null
+  },
+  {
+    "id": "120571",
+    "name": "Напиток Nature's Own Factory Гречишный чайный (3г х 10шт), 30г",
+    "link": "https://online.metro-cc.ru/products/30g-napitok-natures-own-factory-grech",
+    "brand": "NATURE'S OWN FACTORY",
+    "regular_price": "257",
+    "promo_price": "229"
+  },
+  {
+    "id": "532147",
+    "name": "Чай Greenfield Spring Melody (1.5г x 100шт), 150г",
+    "link": "https://online.metro-cc.ru/products/greenfield-spring-melody-100-h-15-g",
+    "brand": "GREENFIELD",
+    "regular_price": "359",
+    "promo_price": null
+  },
+  {
+    "id": "208707",
+    "name": "Чай Азерчай черный листовой, 200г",
+    "link": "https://online.metro-cc.ru/products/200g-chay-azerchay-chyornyy-listovoy",
+    "brand": "АЗЕРЧАЙ",
+    "regular_price": "274",
+    "promo_price": "229"
+  },
+  {
+    "id": "241444",
+    "name": "Чай черный Newby Цейлон листовой, 100г",
+    "link": "https://online.metro-cc.ru/products/chay-chernyy-newby-tseylon-listovoy-100g",
+    "brand": "NEWBY",
+    "regular_price": "919",
+    "promo_price": null
+  },
+  {
+    "id": "578785",
+    "name": "Чай Азерчай черный листовой с чабрецом, 100г",
+    "link": "https://online.metro-cc.ru/products/art_578785",
+    "brand": "АЗЕРЧАЙ",
+    "regular_price": "154",
+    "promo_price": "129"
+  },
+  {
+    "id": "641395",
+    "name": "RIOBA Чай зеленый c жасмином, 400г",
+    "link": "https://online.metro-cc.ru/products/rioba-zelenyj-listovoj-c-zhasminom-400g",
+    "brand": "RIOBA",
+    "regular_price": "539",
+    "promo_price": "469"
+  },
+  {
+    "id": "407590",
+    "name": "RIOBA Чай зеленый Молочный оолонг (2г х 20шт), 40г",
+    "link": "https://online.metro-cc.ru/products/rioba-zelenyj-molochnyj-oolong-20x2g",
+    "brand": "RIOBA",
+    "regular_price": "319",
+    "promo_price": "269"
+  },
+  {
+    "id": "566691",
+    "name": "Чай Майский черный (2г х 200шт), 400г",
+    "link": "https://online.metro-cc.ru/products/chernyj-majskij-v-sashetah-200h2g",
+    "brand": "МАЙСКИЙ",
+    "regular_price": "629",
+    "promo_price": "599"
+  },
+  {
+    "id": "239695",
+    "name": "Чай черный Befruitbe ананас-вишня-лемонграсс, 130г",
+    "link": "https://online.metro-cc.ru/products/chay-chernyy-befruitbe-ananas-vishnya-lemongrass-130g",
+    "brand": "BEFRUITBE",
+    "regular_price": "609",
+    "promo_price": "499"
+  },
+  {
+    "id": "239365",
+    "name": "Чай черный Richard Бергамот-лимон листовой, 90г",
+    "link": "https://online.metro-cc.ru/products/90g-chay-chyornyy-richard-bergamotlimon-listovoy",
+    "brand": "RICHARD",
+    "regular_price": "147",
+    "promo_price": "129"
+  },
+  {
+    "id": "384647",
+    "name": "Чай Newby Earl Grey черный листовой, 100г",
+    "link": "https://online.metro-cc.ru/products/newby-chernyj-earl-grey-100g",
+    "brand": "NEWBY",
+    "regular_price": "799",
+    "promo_price": null
+  },
+  {
+    "id": "208706",
+    "name": "Чай Азерчай черный с чабрецом (2г x 100шт), 200г",
+    "link": "https://online.metro-cc.ru/products/100h2g-chay-azerchay-chyornyy-s-chabretsom-paketirovannyy",
+    "brand": "АЗЕРЧАЙ",
+    "regular_price": "249",
+    "promo_price": "209"
+  },
+  {
+    "id": "244051",
+    "name": "Чай черный Ahmad Tea Earl Grey листовой, 500г",
+    "link": "https://online.metro-cc.ru/products/500g-chay-chernyy-ahmad-tea-erl-grey-listovoy",
+    "brand": "AHMAD TEA",
+    "regular_price": "1 029",
+    "promo_price": null
+  },
+  {
+    "id": "624920",
+    "name": "Чай Maitre de The Луи Дор черный, 150г",
+    "link": "https://online.metro-cc.ru/products/maitre-de-the-lui-dor-chernyj-v-zheleznoj-banke-150-g",
+    "brand": "MAITRE DE THE",
+    "regular_price": "599",
+    "promo_price": null
+  },
+  {
+    "id": "240183",
+    "name": "Чай зеленый Basilur Винтажные цветы Тропическая страсть листовой, 75г",
+    "link": "https://online.metro-cc.ru/products/chay-zelenyy-basilur-vintazhnye-tsvety-tropicheskaya-strast-listovoy-75g",
+    "brand": "BASILUR",
+    "regular_price": "299",
+    "promo_price": "199"
+  },
+  {
+    "id": "207637",
+    "name": "Чай Althaus Darjeeling черный пакетированный (1.75г x 20шт), 35г",
+    "link": "https://online.metro-cc.ru/products/20h175g-chay-althaus-darjeeling-chernyy-paketirovannyy",
+    "brand": "ALTHAUS",
+    "regular_price": "459",
+    "promo_price": null
+  },
+  {
+    "id": "549451",
+    "name": "Чай Basilur Leaf of Ceylon Uva черный листовой, 200г",
+    "link": "https://online.metro-cc.ru/products/200g-bazilur-uva",
+    "brand": "BASILUR",
+    "regular_price": "709",
+    "promo_price": null
+  },
+  {
+    "id": "239379",
+    "name": "Чай Curtis Citrus Groove пакетированный (1.5г x 25шт), 37.5г",
+    "link": "https://online.metro-cc.ru/products/25shth15g-chay-curtis-citrus-groove-paketirovannyy",
+    "brand": "CURTIS",
+    "regular_price": "99",
+    "promo_price": "79"
+  },
+  {
+    "id": "239371",
+    "name": "Чай черный Curtis Tender Moments пакетированный (1.5г x 25шт), 37.5г",
+    "link": "https://online.metro-cc.ru/products/25shth15g-chay-chyornyy-curtis-tender-moments-paketirovannyy",
+    "brand": "CURTIS",
+    "regular_price": "99",
+    "promo_price": "79"
+  },
+  {
+    "id": "244095",
+    "name": "Чай зеленый Ahmad Tea Китайский (1.8г x 25шт), 45г",
+    "link": "https://online.metro-cc.ru/products/25shth18g-chay-zelenyy-ahmad-tea-kitayskiy",
+    "brand": "AHMAD TEA",
+    "regular_price": "77",
+    "promo_price": null
+  },
+  {
+    "id": "239370",
+    "name": "Чай черный Richard Royal Berries пакетированный (1.5г x 25шт), 38г",
+    "link": "https://online.metro-cc.ru/products/25shth15g-chay-chyornyy-richard-royal-berries-paketirovannyy",
+    "brand": "RICHARD",
+    "regular_price": "113",
+    "promo_price": "94"
+  },
+  {
+    "id": "244155",
+    "name": "Чай черный Ahmad Tea Без кофеина (2г x 20шт), 40г",
+    "link": "https://online.metro-cc.ru/products/20shth2g-chay-chernyy-ahmad-tea-bez-kofeina",
+    "brand": "AHMAD TEA",
+    "regular_price": "139",
+    "promo_price": "119"
+  },
+  {
+    "id": "239219",
+    "name": "Чай зеленый Niktea Молочный улун пакетированный (2г x 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/25shth2g-chay-zelenyy-niktea-molochnyy-ulun-paketirovannyy",
+    "brand": "NIKTEA",
+    "regular_price": "139",
+    "promo_price": null
+  },
+  {
+    "id": "239517",
+    "name": "Чай черный Akbar клубника-базилик пакетированный (1.5г x 25шт), 38г",
+    "link": "https://online.metro-cc.ru/products/25shth15g-chay-chyornyy-akbar-klubnikabazilik-paketirovannyy",
+    "brand": "AKBAR",
+    "regular_price": "87",
+    "promo_price": "59"
+  },
+  {
+    "id": "228382",
+    "name": "Чай черный Tess High Ceylon в пакетиках (2.25г x 25шт), 56г",
+    "link": "https://online.metro-cc.ru/products/25shtx225g-chay-chernyy-tess-high-ceylon-v-paketikah",
+    "brand": "TESS",
+    "regular_price": "120",
+    "promo_price": null
+  },
+  {
+    "id": "465471",
+    "name": "Чай Ahmad Tea зеленый листовой с жасмином, 200г x 2 шт",
+    "link": "https://online.metro-cc.ru/products/zelenyj-ahmad-tea-s-zhasminom-listovoj-200-g",
+    "brand": "AHMAD TEA",
+    "regular_price": "918",
+    "promo_price": null
+  },
+  {
+    "id": "439456",
+    "name": "Чай Ahmad Tea Earl Grey черный листовой, 200г x 2 шт",
+    "link": "https://online.metro-cc.ru/products/ahmad-tea-chernyj-earl-grey-200g",
+    "brand": "AHMAD TEA",
+    "regular_price": "758",
+    "promo_price": null
+  },
+  {
+    "id": "244156",
+    "name": "Чай черный Ahmad Tea Эрл Грей без кофеина (1.8г x 20шт), 36г",
+    "link": "https://online.metro-cc.ru/products/20shth18g-chay-chernyy-ahmad-tea-erl-grey-bez-kofeina",
+    "brand": "AHMAD TEA",
+    "regular_price": "139",
+    "promo_price": "119"
+  },
+  {
+    "id": "208995",
+    "name": "Набор Hilltop подарочный чай мини-сумочка, 30г",
+    "link": "https://online.metro-cc.ru/products/30g-pn-chay-hilltop-mini-sumochka",
+    "brand": "HILLTOP",
+    "regular_price": "329",
+    "promo_price": "249"
+  },
+  {
+    "id": "439455",
+    "name": "Чай Ahmad Tea Ceylon Tea High Mountain черный листовой, 200г x 2 шт",
+    "link": "https://online.metro-cc.ru/products/ahmad-cejlonskij-chernyj-200g",
+    "brand": "AHMAD TEA",
+    "regular_price": "758",
+    "promo_price": null
+  },
+  {
+    "id": "439378",
+    "name": "Чай Ahmad Tea Orange Pekoe черный листовой байховый цейлонский, 200г x 2 шт",
+    "link": "https://online.metro-cc.ru/products/ahmad-tea-chernyj-bajhovyj-cejlonskij-orange-pekoe-200g-439378",
+    "brand": "AHMAD TEA",
+    "regular_price": "758",
+    "promo_price": null
+  },
+  {
+    "id": "239251",
+    "name": "Чай Richard Royal Gardens ассорти 40шт, 70.5г",
+    "link": "https://online.metro-cc.ru/products/705g-chay-richard-royal-gardens-assorti-40sht-paket",
+    "brand": "RICHARD",
+    "regular_price": "409",
+    "promo_price": "269"
+  },
+  {
+    "id": "227039",
+    "name": "Чай черный Befruitbe имбирь-апельсин-малина листовой, 50г",
+    "link": "https://online.metro-cc.ru/products/50g-sokochay-chernyy-befruitbe-imbirapelsinmalina",
+    "brand": "BEFRUITBE",
+    "regular_price": "285",
+    "promo_price": "229"
+  },
+  {
+    "id": "240182",
+    "name": "Чай Basilur Винтажные цветы ассорти (1.5г x 40шт), 60г",
+    "link": "https://online.metro-cc.ru/products/chay-basilur-vintazhnye-tsvety-assorti-15g-x-40sht-60g",
+    "brand": "BASILUR",
+    "regular_price": "499",
+    "promo_price": "399"
+  },
+  {
+    "id": "646226",
+    "name": "Чай Maitre de The ассорти Exсlusive Collection 12 вкусов, 120г",
+    "link": "https://online.metro-cc.ru/products/maitre-assorti-exslusive-collection-12-vkusov-v-sashe-60-pak",
+    "brand": "MAITRE DE THE",
+    "regular_price": "419",
+    "promo_price": null
+  },
+  {
+    "id": "241451",
+    "name": "Чай травяной Newby перечная мята (2г x 25шт), 50г",
+    "link": "https://online.metro-cc.ru/products/chay-travyanoy-newby-perechnaya-myata-2g-x-25sht-50g",
+    "brand": "NEWBY",
+    "regular_price": "869",
+    "promo_price": null
+  },
+  {
+    "id": "241448",
+    "name": "Чай травяной Newby Цветы ромашки пакетированный (1.5г x 25шт), 37.5г",
+    "link": "https://online.metro-cc.ru/products/chay-travyanoy-newby-tsvety-romashki-paketirovannyy-15g-x-25sht-375g",
+    "brand": "NEWBY",
+    "regular_price": "819",
+    "promo_price": null
+  },
+  {
+    "id": "241441",
+    "name": "Чай Newby Classic Selection ассорти пакетированный (2г x 48шт), 96г",
+    "link": "https://online.metro-cc.ru/products/chay-newby-classic-selection-assorti-paketirovannyy-2g-x-48sht-96g",
+    "brand": "NEWBY",
+    "regular_price": "1 429",
+    "promo_price": null
+  },
+  {
+    "id": "244167",
+    "name": "Чай травяной Ahmad Tea Гибискус-клубника-перец чили (1.8г x 20шт), 36г",
+    "link": "https://online.metro-cc.ru/products/20shth18g-chay-travyanoy-ahmad-tea-gibiskklubnikaperets-chili",
+    "brand": "AHMAD TEA",
+    "regular_price": "139",
+    "promo_price": "119"
+  },
+  {
+    "id": "544481",
+    "name": "RIOBA Чайный напиток Наглый фрукт, 400г",
+    "link": "https://online.metro-cc.ru/products/rioba-napitok-naglyj-frukt-400g",
+    "brand": "RIOBA",
+    "regular_price": "699",
+    "promo_price": "659"
+  },
+  {
+    "id": "642427",
+    "name": "RIOBA Напиток чайный ромашка (1.5г х 14шт), 21г",
+    "link": "https://online.metro-cc.ru/products/rioba-napitok-romashka-14x15g",
+    "brand": "RIOBA",
+    "regular_price": "191",
+    "promo_price": "159"
+  },
+  {
+    "id": "641401",
+    "name": "RIOBA Чайный напиток Каркаде, 400г",
+    "link": "https://online.metro-cc.ru/products/rioba-napitok-karkade-400g",
+    "brand": "RIOBA",
+    "regular_price": "519",
+    "promo_price": "399"
+  },
+  {
+    "id": "586879",
+    "name": "RIOBA Чайный напиток Ройбуш земляничный (2г х 20шт), 40г",
+    "link": "https://online.metro-cc.ru/products/rioba-napitok-rojbush-zemlyanichnyj-20x2g",
+    "brand": "RIOBA",
+    "regular_price": "285",
+    "promo_price": "239"
+  },
+  {
+    "id": "240185",
+    "name": "Напиток чайный Basilur Фруктовое вдохновение Том III ассорти (2г x 20шт), 40г",
+    "link": "https://online.metro-cc.ru/products/napitok-chaynyy-basilur-fruktovoe-vdohnovenie-tom-iii-assorti-2g-x-20sht-40g",
+    "brand": "BASILUR",
+    "regular_price": "292",
+    "promo_price": "199"
+  }
+]
